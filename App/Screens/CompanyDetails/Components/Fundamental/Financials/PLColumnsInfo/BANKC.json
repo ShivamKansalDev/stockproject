@@ -1,0 +1,254 @@
+[{
+        "rowId": "1",
+        "displayName": "Interest Earned",
+        "type": "",
+        "seq": "1",
+        "hierarchy": ["Interest Earned"]
+    }, {
+        "rowId": "2",
+        "displayName": "Interest / Discount on Advances / Bills",
+        "type": "",
+        "seq": "2",
+        "hierarchy": ["Interest Earned", "Interest / Discount on Advances / Bills"]
+    }, {
+        "rowId": "3",
+        "displayName": "Interest on Investments",
+        "type": "",
+        "seq": "3",
+        "hierarchy": ["Interest Earned", "Interest on Investments"]
+    }, {
+        "rowId": "4",
+        "displayName": "Interest on RBI / Other Inter-Bank Funds",
+        "type": "",
+        "seq": "4",
+        "hierarchy": ["Interest Earned", "Interest on RBI / Other Inter-Bank Funds"]
+    }, {
+        "rowId": "5",
+        "displayName": "Interest on Others",
+        "type": "",
+        "seq": "5",
+        "hierarchy": ["Interest Earned", "Interest on Others"]
+    }, {
+        "rowId": "8",
+        "displayName": "Interest Expended",
+        "type": "",
+        "seq": "6",
+        "hierarchy": ["Interest Expended"]
+    }, {
+        "rowId": "9",
+        "displayName": "Interest on Deposits",
+        "type": "",
+        "seq": "7",
+        "hierarchy": ["Interest Expended", "Interest on Deposits"]
+    }, {
+        "rowId": "10",
+        "displayName": "Interest on RBI / Inter-Bank Borrowings",
+        "type": "",
+        "seq": "8",
+        "hierarchy": ["Interest Expended", "Interest on RBI / Inter-Bank Borrowings"]
+    }, {
+        "rowId": "11",
+        "displayName": "Debenture Interest",
+        "type": "",
+        "seq": "9",
+        "hierarchy": ["Interest Expended", "Debenture Interest"]
+    }, {
+        "rowId": "12",
+        "displayName": "Interest on Term / Fixed Loans",
+        "type": "",
+        "seq": "10",
+        "hierarchy": ["Interest Expended", "Interest on Term / Fixed Loans"]
+    }, {
+        "rowId": "13",
+        "displayName": "Interest on External Commercial Borrowings",
+        "type": "",
+        "seq": "11",
+        "hierarchy": ["Interest Expended", "Interest on External Commercial Borrowings"]
+    }, {
+        "rowId": "14",
+        "displayName": "Financial Charges",
+        "type": "",
+        "seq": "12",
+        "hierarchy": ["Interest Expended", "Financial Charges"]
+    }, {
+        "rowId": "16",
+        "displayName": "Other Interest Expenses",
+        "type": "",
+        "seq": "13",
+        "hierarchy": ["Interest Expended", "Other Interest Expenses"]
+    }, {
+        "rowId": "15",
+        "displayName": "Less: Interest Capitalised",
+        "type": "",
+        "seq": "14",
+        "hierarchy": ["Interest Expended", "Less: Interest Capitalised"]
+    }, {
+        "rowId": "SUM(17,19)",
+        "displayName": "Other Operating Expenses",
+        "type": "",
+        "seq": "15",
+        "hierarchy": ["Other Operating Expenses"]
+    }, {
+        "rowId": "17",
+        "displayName": "Employee Benefits",
+        "type": "",
+        "seq": "16",
+        "hierarchy": ["Other Operating Expenses", "Employee Benefits"]
+    }, {
+        "rowId": "19",
+        "displayName": "Total Other Expenses",
+        "type": "",
+        "seq": "17",
+        "hierarchy": ["Other Operating Expenses", "Total Other Expenses"]
+    }, {
+        "rowId": "20",
+        "displayName": "Operating Expenses",
+        "type": "",
+        "seq": "18",
+        "hierarchy": ["Other Operating Expenses", "Total Other Expenses", "Operating Expenses"]
+    }, {
+        "rowId": "21",
+        "displayName": "Administrative and Selling Expenses",
+        "type": "",
+        "seq": "19",
+        "hierarchy": ["Other Operating Expenses", "Total Other Expenses", "Administrative and Selling Expenses"]
+    }, {
+        "rowId": "22",
+        "displayName": "Other Expenses",
+        "type": "",
+        "seq": "20",
+        "hierarchy": ["Other Operating Expenses", "Total Other Expenses", "Other Expenses"]
+    }, {
+        "rowId": "SUM(1,-8,-17,-19)",
+        "displayName": "Operating Profit",
+        "type": "BOLD",
+        "seq": "21",
+        "hierarchy": ["Operating Profit"]
+    }, {
+        "rowId": "23",
+        "displayName": "Depreciation and Amortization",
+        "type": "",
+        "seq": "22",
+        "hierarchy": ["Depreciation and Amortization"]
+    }, {
+        "rowId": "18",
+        "displayName": "Provisions and Contingencies",
+        "type": "",
+        "seq": "23",
+        "hierarchy": ["Provisions and Contingencies"]
+    }, {
+        "rowId": "6",
+        "displayName": "Other Income",
+        "type": "",
+        "seq": "24",
+        "hierarchy": ["Other Income"]
+    }, {
+        "rowId": "25",
+        "displayName": "Share of Profits / Loss of Associated Companies Before Tax",
+        "type": "",
+        "seq": "25",
+        "hierarchy": ["Share of Profits / Loss of Associated Companies Before Tax"]
+    }, {
+        "rowId": "26",
+        "displayName": "Minority Interest Before Net Profit",
+        "type": "",
+        "seq": "26",
+        "hierarchy": ["Minority Interest Before Net Profit"]
+    }, {
+        "rowId": "27",
+        "displayName": "Profit Before Exceptional Items and Tax",
+        "type": "BOLD",
+        "seq": "27",
+        "hierarchy": ["Profit Before Exceptional Items and Tax"]
+    }, {
+        "rowId": "28",
+        "displayName": "Exceptional Items Before Tax",
+        "type": "",
+        "seq": "28",
+        "hierarchy": ["Exceptional Items Before Tax"]
+    }, {
+        "rowId": "29",
+        "displayName": "Profit Before Extraordinary Items and Tax",
+        "type": "BOLD",
+        "seq": "29",
+        "hierarchy": ["Profit Before Extraordinary Items and Tax"]
+    }, {
+        "rowId": "30",
+        "displayName": "Extraordinary Items Before Tax",
+        "type": "",
+        "seq": "30",
+        "hierarchy": ["Extraordinary Items Before Tax"]
+    }, {
+        "rowId": "31",
+        "displayName": "Other Adjustments Before Tax",
+        "type": "",
+        "seq": "31",
+        "hierarchy": ["Other Adjustments Before Tax"]
+    }, {
+        "rowId": "32",
+        "displayName": "Profit Before Tax (PBT)",
+        "type": "BOLD",
+        "seq": "32",
+        "hierarchy": ["Profit Before Tax (PBT)"]
+    }, {
+        "rowId": "33",
+        "displayName": "Taxation",
+        "type": "",
+        "seq": "33",
+        "hierarchy": ["Taxation"]
+    }, {
+        "rowId": "34",
+        "displayName": "Current Tax",
+        "type": "",
+        "seq": "34",
+        "hierarchy": ["Taxation", "Current Tax"]
+    }, {
+        "rowId": "35",
+        "displayName": "MAT Credit Entitlement",
+        "type": "",
+        "seq": "35",
+        "hierarchy": ["Taxation", "MAT Credit Entitlement"]
+    }, {
+        "rowId": "36",
+        "displayName": "Deferred Tax",
+        "type": "",
+        "seq": "36",
+        "hierarchy": ["Taxation", "Deferred Tax"]
+    }, {
+        "rowId": "37",
+        "displayName": "Other Tax",
+        "type": "",
+        "seq": "37",
+        "hierarchy": ["Taxation", "Other Tax"]
+    }, {
+        "rowId": "38",
+        "displayName": "Adjust for Previous Year",
+        "type": "",
+        "seq": "38",
+        "hierarchy": ["Taxation", "Adjust for Previous Year"]
+    }, {
+        "rowId": "39",
+        "displayName": "Profit After Tax (PAT)",
+        "type": "BOLD",
+        "seq": "39",
+        "hierarchy": ["Profit After Tax (PAT)"]
+    }, {
+        "rowId": "55",
+        "displayName": "Earning Per Share - Basic",
+        "type": "",
+        "seq": "40",
+        "hierarchy": ["Earning Per Share - Basic"]
+    }, {
+        "rowId": "56",
+        "displayName": "Earning Per Share - Diluted",
+        "type": "",
+        "seq": "41",
+        "hierarchy": ["Earning Per Share - Diluted"]
+    }, {
+        "rowId": "52",
+        "displayName": "Dividend Per Share",
+        "type": "",
+        "seq": "42",
+        "hierarchy": ["Dividend Per Share"]
+    }
+]

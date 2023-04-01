@@ -1,0 +1,13 @@
+export const equityPaidUp = 'Equity Paid Up';
+export const capitalEmployed = 'Capital Employed';
+export const totalDebt = 'Total Debt';
+export const netSales = 'Net Sales';
+export const ebta = 'EBTA';
+export const ebt = 'EBT';
+export const pat = 'PAT';
+export const eps = 'EPS';
+export const sgrth1 = 'SGRTH_1';
+export const sgrth4 = 'SGRTH_4';
+export const opm = 'OPM %';
+export const patmrgn = 'PATMRGN';
+export const intrcvrg = 'INTRCVRG';

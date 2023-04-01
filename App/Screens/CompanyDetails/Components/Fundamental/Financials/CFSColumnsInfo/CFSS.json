@@ -1,0 +1,542 @@
+[
+    {
+        "rowId": "1",
+        "displayName": "Cash and Cash Equivalents at Beginning of the year",
+        "type": "",
+        "seq": "1"
+    },
+    {
+        "rowId": "5",
+        "displayName": "Net Profit before Tax & Extraordinary Items",
+        "type": "",
+        "seq": "2"
+    },
+    {
+        "rowId": "0",
+        "displayName": "Adjustments",
+        "type": "",
+        "seq": "3"
+    },
+    {
+        "rowId": "7",
+        "displayName": "Depreciation",
+        "type": "",
+        "seq": "4"
+    },
+    {
+        "rowId": "8",
+        "displayName": "Interest (Net)",
+        "type": "",
+        "seq": "5"
+    },
+    {
+        "rowId": "9",
+        "displayName": "Dividend Received 1",
+        "type": "",
+        "seq": "6"
+    },
+    {
+        "rowId": "10",
+        "displayName": "P/L on Sales of Assets",
+        "type": "",
+        "seq": "7"
+    },
+    {
+        "rowId": "11",
+        "displayName": "P/L on Sales of Invest",
+        "type": "",
+        "seq": "8"
+    },
+    {
+        "rowId": "12",
+        "displayName": "Prov. & W/O (Net)",
+        "type": "",
+        "seq": "9"
+    },
+    {
+        "rowId": "13",
+        "displayName": "P/L in Forex",
+        "type": "",
+        "seq": "10"
+    },
+    {
+        "rowId": "14",
+        "displayName": "Fin. Lease & Rental Charges",
+        "type": "",
+        "seq": "11"
+    },
+    {
+        "rowId": "15",
+        "displayName": "Other Adjustments-PBT & Extraordinary Items",
+        "type": "",
+        "seq": "12"
+    },
+    {
+        "rowId": "16",
+        "displayName": "Total Adjustments (PBT & Extraordinary Items)",
+        "type": "",
+        "seq": "13"
+    },
+    {
+        "rowId": "17",
+        "displayName": "Operating Profit before Working Capital Changes",
+        "type": "",
+        "seq": "14"
+    },
+    {
+        "rowId": "18",
+        "displayName": "Adjustments",
+        "type": "",
+        "seq": "15"
+    },
+    {
+        "rowId": "19",
+        "displayName": "Trade & Other Receivables",
+        "type": "",
+        "seq": "16"
+    },
+    {
+        "rowId": "20",
+        "displayName": "Inventories",
+        "type": "",
+        "seq": "17"
+    },
+    {
+        "rowId": "21",
+        "displayName": "Trade Payables",
+        "type": "",
+        "seq": "18"
+    },
+    {
+        "rowId": "22",
+        "displayName": "Loans & Advances",
+        "type": "",
+        "seq": "19"
+    },
+    {
+        "rowId": "23",
+        "displayName": "Investments",
+        "type": "",
+        "seq": "20"
+    },
+    {
+        "rowId": "24",
+        "displayName": "Net Stock on Hire",
+        "type": "",
+        "seq": "21"
+    },
+    {
+        "rowId": "25",
+        "displayName": "Leased Assets Net of Sale",
+        "type": "",
+        "seq": "22"
+    },
+    {
+        "rowId": "26",
+        "displayName": "Trade Bill(s) Purchased",
+        "type": "",
+        "seq": "23"
+    },
+    {
+        "rowId": "27",
+        "displayName": "Change in Borrowing",
+        "type": "",
+        "seq": "24"
+    },
+    {
+        "rowId": "28",
+        "displayName": "Change in Deposits",
+        "type": "",
+        "seq": "25"
+    },
+    {
+        "rowId": "29",
+        "displayName": "Other Adjustments-OP before Working Capital Changes",
+        "type": "",
+        "seq": "26"
+    },
+    {
+        "rowId": "30",
+        "displayName": "Total Adjustments (OP before Working Capital Changes)",
+        "type": "",
+        "seq": "27"
+    },
+    {
+        "rowId": "31",
+        "displayName": "Cash Generated from/(used in) Operations",
+        "type": "",
+        "seq": "28"
+    },
+    {
+        "rowId": "32",
+        "displayName": "Adjustments",
+        "type": "",
+        "seq": "29"
+    },
+    {
+        "rowId": "33",
+        "displayName": "Interest Paid(Net)",
+        "type": "",
+        "seq": "30"
+    },
+    {
+        "rowId": "34",
+        "displayName": "Direct Taxes Paid",
+        "type": "",
+        "seq": "31"
+    },
+    {
+        "rowId": "35",
+        "displayName": "Advance Tax Paid",
+        "type": "",
+        "seq": "32"
+    },
+    {
+        "rowId": "36",
+        "displayName": "Other Adjustments-Cash Generated from/(used in) Operations",
+        "type": "",
+        "seq": "33"
+    },
+    {
+        "rowId": "37",
+        "displayName": "Total Adjustments(Cash Generated from/(used in) Operations",
+        "type": "",
+        "seq": "34"
+    },
+    {
+        "rowId": "38",
+        "displayName": "Cash Flow before Extraordinary Items",
+        "type": "",
+        "seq": "35"
+    },
+    {
+        "rowId": "39",
+        "displayName": "Extraordinary Items",
+        "type": "",
+        "seq": "36"
+    },
+    {
+        "rowId": "40",
+        "displayName": "Excess Depreciation W/b",
+        "type": "",
+        "seq": "37"
+    },
+    {
+        "rowId": "41",
+        "displayName": "Premium on Lease of land",
+        "type": "",
+        "seq": "38"
+    },
+    {
+        "rowId": "42",
+        "displayName": "Payment Towards VRS",
+        "type": "",
+        "seq": "39"
+    },
+    {
+        "rowId": "43",
+        "displayName": "Prior Year's Taxation",
+        "type": "",
+        "seq": "40"
+    },
+    {
+        "rowId": "44",
+        "displayName": "Gain on Forex Exch. Transactions",
+        "type": "",
+        "seq": "41"
+    },
+    {
+        "rowId": "45",
+        "displayName": "Other-Extraordinary Items",
+        "type": "",
+        "seq": "42"
+    },
+    {
+        "rowId": "46",
+        "displayName": "Total Extraordinary Items",
+        "type": "",
+        "seq": "43"
+    },
+    {
+        "rowId": "47",
+        "displayName": "Net Cash from Operating Activities",
+        "type": "",
+        "seq": "44"
+    },
+    {
+        "rowId": "49",
+        "displayName": "Cash Flow from Investing Activities",
+        "type": "",
+        "seq": "45"
+    },
+    {
+        "rowId": "51",
+        "displayName": "Investment in Assets ",
+        "type": "",
+        "seq": "46"
+    },
+    {
+        "rowId": "52",
+        "displayName": "Purchased of Fixed Assets",
+        "type": "",
+        "seq": "47"
+    },
+    {
+        "rowId": "53",
+        "displayName": "Capital Expenditure",
+        "type": "",
+        "seq": "48"
+    },
+    {
+        "rowId": "54",
+        "displayName": "Sale of Fixed Assets",
+        "type": "",
+        "seq": "49"
+    },
+    {
+        "rowId": "55",
+        "displayName": "Capital WIP",
+        "type": "",
+        "seq": "50"
+    },
+    {
+        "rowId": "56",
+        "displayName": "Capital Subsidy Received",
+        "type": "",
+        "seq": "51"
+    },
+    {
+        "rowId": "57",
+        "displayName": "Financial / Capital Investment ",
+        "type": "",
+        "seq": "52"
+    },
+    {
+        "rowId": "58",
+        "displayName": "Purchase of Investments",
+        "type": "",
+        "seq": "53"
+    },
+    {
+        "rowId": "59",
+        "displayName": "Sale of Investments",
+        "type": "",
+        "seq": "54"
+    },
+    {
+        "rowId": "60",
+        "displayName": "Investment Income",
+        "type": "",
+        "seq": "55"
+    },
+    {
+        "rowId": "61",
+        "displayName": "Interest Received",
+        "type": "",
+        "seq": "56"
+    },
+    {
+        "rowId": "62",
+        "displayName": "Dividend Received 2",
+        "type": "",
+        "seq": "57"
+    },
+    {
+        "rowId": "63",
+        "displayName": "Invest.In Subsidiaires",
+        "type": "",
+        "seq": "58"
+    },
+    {
+        "rowId": "64",
+        "displayName": "Loans to Subsidiaires",
+        "type": "",
+        "seq": "59"
+    },
+    {
+        "rowId": "65",
+        "displayName": "Investment in Group Cos.",
+        "type": "",
+        "seq": "60"
+    },
+    {
+        "rowId": "66",
+        "displayName": "Issue of Shares on Acquisition of Cos.",
+        "type": "",
+        "seq": "61"
+    },
+    {
+        "rowId": "67",
+        "displayName": "Cancellation of Investment in Cos. Acquired",
+        "type": "",
+        "seq": "62"
+    },
+    {
+        "rowId": "68",
+        "displayName": "Acquisition of Companies",
+        "type": "",
+        "seq": "63"
+    },
+    {
+        "rowId": "69",
+        "displayName": "Inter Corporate Deposits",
+        "type": "",
+        "seq": "64"
+    },
+    {
+        "rowId": "70",
+        "displayName": "Others-Cash Flow from Investing Activities",
+        "type": "",
+        "seq": "65"
+    },
+    {
+        "rowId": "71",
+        "displayName": "Net Cash used in Investing Activities",
+        "type": "",
+        "seq": "66"
+    },
+    {
+        "rowId": "73",
+        "displayName": "Cash Flow From Financing Activities",
+        "type": "",
+        "seq": "67"
+    },
+    {
+        "rowId": "75",
+        "displayName": "Proceeds",
+        "type": "",
+        "seq": "68"
+    },
+    {
+        "rowId": "76",
+        "displayName": "Proceeds from Issue of shares (incl. share premium)",
+        "type": "",
+        "seq": "69"
+    },
+    {
+        "rowId": "77",
+        "displayName": "Proceed from Issue of Debentures",
+        "type": "",
+        "seq": "70"
+    },
+    {
+        "rowId": "78",
+        "displayName": "Proceed from 0ther Long Term Borrowings",
+        "type": "",
+        "seq": "71"
+    },
+    {
+        "rowId": "79",
+        "displayName": "Proceed from Bank Borrowings",
+        "type": "",
+        "seq": "72"
+    },
+    {
+        "rowId": "80",
+        "displayName": "Proceed from Short Tem Borrowings",
+        "type": "",
+        "seq": "73"
+    },
+    {
+        "rowId": "81",
+        "displayName": "Proceed from Deposits",
+        "type": "",
+        "seq": "74"
+    },
+    {
+        "rowId": "82",
+        "displayName": "Share Application Money",
+        "type": "",
+        "seq": "75"
+    },
+    {
+        "rowId": "83",
+        "displayName": "Cash/Capital Investment Subsidy",
+        "type": "",
+        "seq": "76"
+    },
+    {
+        "rowId": "84",
+        "displayName": "Loans from a Corporate Body",
+        "type": "",
+        "seq": "77"
+    },
+    {
+        "rowId": "85",
+        "displayName": "Payments",
+        "type": "",
+        "seq": "78"
+    },
+    {
+        "rowId": "86",
+        "displayName": "Share Application Money Refund",
+        "type": "",
+        "seq": "79"
+    },
+    {
+        "rowId": "87",
+        "displayName": "On Redemption of Debenture",
+        "type": "",
+        "seq": "80"
+    },
+    {
+        "rowId": "88",
+        "displayName": "Of the Long Tem Borrowings",
+        "type": "",
+        "seq": "81"
+    },
+    {
+        "rowId": "89",
+        "displayName": "Of the Short Term Borrowings",
+        "type": "",
+        "seq": "82"
+    },
+    {
+        "rowId": "90",
+        "displayName": "Of Financial Liabilities",
+        "type": "",
+        "seq": "83"
+    },
+    {
+        "rowId": "91",
+        "displayName": "Dividend Paid",
+        "type": "",
+        "seq": "84"
+    },
+    {
+        "rowId": "92",
+        "displayName": "Shelter Assistance Reserve",
+        "type": "",
+        "seq": "85"
+    },
+    {
+        "rowId": "93",
+        "displayName": "Interest Paid in Financing Activities",
+        "type": "",
+        "seq": "86"
+    },
+    {
+        "rowId": "94",
+        "displayName": "Others-Cash Flow From Financing Activities",
+        "type": "",
+        "seq": "87"
+    },
+    {
+        "rowId": "95",
+        "displayName": "Net Cash used in Financing Activities",
+        "type": "",
+        "seq": "88"
+    },
+    {
+        "rowId": "98",
+        "displayName": "Net Inc./(Dec.) in Cash and Cash Equivalent",
+        "type": "",
+        "seq": "89"
+    },
+    {
+        "rowId": "99",
+        "displayName": "Cash and Cash Equivalents at End of the year",
+        "type": "",
+        "seq": "90"
+    }
+]

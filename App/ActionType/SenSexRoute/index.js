@@ -1,0 +1,1 @@
+export const SENSEX_ROUTE_NAME='SENSEX_ROUTE_NAME'

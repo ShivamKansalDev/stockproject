@@ -1,0 +1,487 @@
+[
+    {
+        "rowId": "",
+        "displayName": "CURRENT ASSETS",
+        "type": "Section",
+        "seq": "1",
+        "hierarchy": [
+            "CURRENT ASSETS"
+        ]
+    },
+    {
+        "rowId": "60",
+        "displayName": "Cash and Bank Balance",
+        "type": "",
+        "seq": "2",
+        "hierarchy": [
+            "Cash and Bank Balance"
+        ]
+    },
+    {
+        "rowId": "61",
+        "displayName": "Advances and Other Assets",
+        "type": "",
+        "seq": "3",
+        "hierarchy": [
+            "Advances and Other Assets"
+        ]
+    },
+    {
+        "rowId": "62",
+        "displayName": "Liabilities Directly Associated with Assets Classified as Held for Sale",
+        "type": "",
+        "seq": "4",
+        "hierarchy": [
+            "Liabilities Directly Associated with Assets Classified as Held for Sale"
+        ]
+    },
+    {
+        "rowId": "63",
+        "displayName": "Trade Receivables",
+        "type": "",
+        "seq": "5",
+        "hierarchy": [
+            "Trade Receivables"
+        ]
+    },
+    {
+        "rowId": "64",
+        "displayName": "Total Current Assets",
+        "type": "BOLD",
+        "seq": "6",
+        "hierarchy": [
+            "Total Current Assets"
+        ]
+    },
+    {
+        "rowId": "",
+        "displayName": "NON-CURRENT ASSETS",
+        "type": "SECTION",
+        "seq": "7",
+        "hierarchy": [
+            "NON-CURRENT ASSETS"
+        ]
+    },
+    {
+        "rowId": "42",
+        "displayName": "Fixed Assets",
+        "type": "",
+        "seq": "8",
+        "hierarchy": [
+            "Fixed Assets"
+        ]
+    },
+    {
+        "rowId": "43",
+        "displayName": "Property, Plant and Equipment",
+        "type": "",
+        "seq": "9",
+        "hierarchy": [
+            "Fixed Assets",
+            "Property, Plant and Equipment"
+        ]
+    },
+    {
+        "rowId": "44",
+        "displayName": "Capital Work in Progress",
+        "type": "",
+        "seq": "10",
+        "hierarchy": [
+            "Fixed Assets",
+            "Capital Work in Progress"
+        ]
+    },
+    {
+        "rowId": "45",
+        "displayName": "Right-of-Use Assets",
+        "type": "",
+        "seq": "11",
+        "hierarchy": [
+            "Fixed Assets",
+            "Right-of-Use Assets"
+        ]
+    },
+    {
+        "rowId": "46",
+        "displayName": "Intangible Assets",
+        "type": "",
+        "seq": "12",
+        "hierarchy": [
+            "Fixed Assets",
+            "Intangible Assets"
+        ]
+    },
+    {
+        "rowId": "47",
+        "displayName": "Goodwill",
+        "type": "",
+        "seq": "13",
+        "hierarchy": [
+            "Fixed Assets",
+            "Goodwill"
+        ]
+    },
+    {
+        "rowId": "48",
+        "displayName": "Intangible Assets under Development",
+        "type": "",
+        "seq": "14",
+        "hierarchy": [
+            "Fixed Assets",
+            "Intangible Assets under Development"
+        ]
+    },
+    {
+        "rowId": "49",
+        "displayName": "Investments",
+        "type": "",
+        "seq": "15",
+        "hierarchy": [
+            "Investments"
+        ]
+    },
+    {
+        "rowId": "50",
+        "displayName": "Shareholders",
+        "type": "",
+        "seq": "16",
+        "hierarchy": [
+            "Investments",
+            "Shareholders"
+        ]
+    },
+    {
+        "rowId": "51",
+        "displayName": "Policyholders",
+        "type": "",
+        "seq": "17",
+        "hierarchy": [
+            "Investments",
+            "Policyholders"
+        ]
+    },
+    {
+        "rowId": "52",
+        "displayName": "Assets held to Cover Linked Liabilities",
+        "type": "",
+        "seq": "18",
+        "hierarchy": [
+            "Investments",
+            "Assets held to Cover Linked Liabilities"
+        ]
+    },
+    {
+        "rowId": "53",
+        "displayName": "Assets Held to Cover Discontinued Funds",
+        "type": "",
+        "seq": "19",
+        "hierarchy": [
+            "Investments",
+            "Assets Held to Cover Discontinued Funds"
+        ]
+    },
+    {
+        "rowId": "54",
+        "displayName": "Other Insurance Related Assets",
+        "type": "",
+        "seq": "20",
+        "hierarchy": [
+            "Other Insurance Related Assets"
+        ]
+    },
+    {
+        "rowId": "55",
+        "displayName": "Loans - Long-term",
+        "type": "",
+        "seq": "21",
+        "hierarchy": [
+            "Loans - Long-term"
+        ]
+    },
+    {
+        "rowId": "56",
+        "displayName": "Other Non-current Assets",
+        "type": "",
+        "seq": "22",
+        "hierarchy": [
+            "Other Non-current Assets"
+        ]
+    },
+    {
+        "rowId": "57",
+        "displayName": "Deferred Tax Assets (Net)",
+        "type": "",
+        "seq": "23",
+        "hierarchy": [
+            "Deferred Tax Assets (Net)"
+        ]
+    },
+    {
+        "rowId": "58",
+        "displayName": "Total Non-current Assets",
+        "type": "BOLD",
+        "seq": "24",
+        "hierarchy": [
+            "Total Non-current Assets"
+        ]
+    },
+    {
+        "rowId": "SUM(64,58)",
+        "displayName": "Total Assets",
+        "type": "BOLD",
+        "seq": "25",
+        "hierarchy": [
+            "Total Assets"
+        ]
+    },
+    {
+        "rowId": "",
+        "displayName": "CURRENT LIABILITIES",
+        "type": "SECTION",
+        "seq": "26",
+        "hierarchy": [
+            "CURRENT LIABILITIES"
+        ]
+    },
+    {
+        "rowId": "66",
+        "displayName": "Current Liabilities",
+        "type": "",
+        "seq": "27",
+        "hierarchy": [
+            "Current Liabilities"
+        ]
+    },
+    {
+        "rowId": "67",
+        "displayName": "Provisions",
+        "type": "",
+        "seq": "28",
+        "hierarchy": [
+            "Provisions"
+        ]
+    },
+    {
+        "rowId": "68",
+        "displayName": "Short term Borrowings",
+        "type": "",
+        "seq": "29",
+        "hierarchy": [
+            "Short term Borrowings"
+        ]
+    },
+    {
+        "rowId": "69",
+        "displayName": "Lease Liabilities (ST)",
+        "type": "",
+        "seq": "30",
+        "hierarchy": [
+            "Lease Liabilities (ST)"
+        ]
+    },
+    {
+        "rowId": "70",
+        "displayName": "Trade Payables",
+        "type": "",
+        "seq": "31",
+        "hierarchy": [
+            "Trade Payables"
+        ]
+    },
+    {
+        "rowId": "71",
+        "displayName": "Total Current Liabilities",
+        "type": "BOLD",
+        "seq": "32",
+        "hierarchy": [
+            "Total Current Liabilities"
+        ]
+    },
+    {
+        "rowId": "",
+        "displayName": "NON-CURRENT LIABILITIES",
+        "type": "SECTION",
+        "seq": "33",
+        "hierarchy": [
+            "NON-CURRENT LIABILITIES"
+        ]
+    },
+    {
+        "rowId": "14",
+        "displayName": "Borrowings",
+        "type": "",
+        "seq": "34",
+        "hierarchy": [
+            "Borrowings"
+        ]
+    },
+    {
+        "rowId": "15",
+        "displayName": "Policyholders Fund",
+        "type": "",
+        "seq": "35",
+        "hierarchy": [
+            "Policyholders Fund"
+        ]
+    },
+    {
+        "rowId": "35",
+        "displayName": "Lease Liabilities (LT)",
+        "type": "",
+        "seq": "36",
+        "hierarchy": [
+            "Lease Liabilities (LT)"
+        ]
+    },
+    {
+        "rowId": "36",
+        "displayName": "Current Tax Liabilities - Long-term",
+        "type": "",
+        "seq": "37",
+        "hierarchy": [
+            "Current Tax Liabilities - Long-term"
+        ]
+    },
+    {
+        "rowId": "37",
+        "displayName": "Long-term Provisions",
+        "type": "",
+        "seq": "38",
+        "hierarchy": [
+            "Long-term Provisions"
+        ]
+    },
+    {
+        "rowId": "38",
+        "displayName": "Other Non-Current Liabilities",
+        "type": "",
+        "seq": "39",
+        "hierarchy": [
+            "Other Non-Current Liabilities"
+        ]
+    },
+    {
+        "rowId": "39",
+        "displayName": "Total Non-current Liabilities",
+        "type": "BOLD",
+        "seq": "40",
+        "hierarchy": [
+            "Total Non-current Liabilities"
+        ]
+    },
+    {
+        "rowId": "1",
+        "displayName": "SHARE HOLDER'S FUND",
+        "type": "",
+        "seq": "41",
+        "hierarchy": [
+            "SHARE HOLDER'S FUND"
+        ]
+    },
+    {
+        "rowId": "2",
+        "displayName": "Share Capital",
+        "type": "",
+        "seq": "42",
+        "hierarchy": [
+            "Share Capital"
+        ]
+    },
+    {
+        "rowId": "3",
+        "displayName": "Equity Capital",
+        "type": "",
+        "seq": "43",
+        "hierarchy": [
+            "Share Capital",
+            "Equity Capital"
+        ]
+    },
+    {
+        "rowId": "4",
+        "displayName": "Preference Capital",
+        "type": "",
+        "seq": "44",
+        "hierarchy": [
+            "Share Capital",
+            "Preference Capital"
+        ]
+    },
+    {
+        "rowId": "5",
+        "displayName": "Unclassified Capital",
+        "type": "",
+        "seq": "45",
+        "hierarchy": [
+            "Share Capital",
+            "Unclassified Capital"
+        ]
+    },
+    {
+        "rowId": "6",
+        "displayName": "Other Reserve and Equity",
+        "type": "",
+        "seq": "46",
+        "hierarchy": [
+            "Other Reserve and Equity"
+        ]
+    },
+    {
+        "rowId": "7",
+        "displayName": "Reserves and Surplus",
+        "type": "",
+        "seq": "47",
+        "hierarchy": [
+            "Other Reserve and Equity",
+            "Reserves and Surplus"
+        ]
+    },
+    {
+        "rowId": "8",
+        "displayName": "Credit/(Debit) Fair Value Change Account",
+        "type": "",
+        "seq": "48",
+        "hierarchy": [
+            "Other Reserve and Equity",
+            "Credit/(Debit) Fair Value Change Account"
+        ]
+    },
+    {
+        "rowId": "9",
+        "displayName": "Share Application Money Pending Allotment",
+        "type": "",
+        "seq": "49",
+        "hierarchy": [
+            "Other Reserve and Equity",
+            "Share Application Money Pending Allotment"
+        ]
+    },
+    {
+        "rowId": "10",
+        "displayName": "Other Equity Components",
+        "type": "",
+        "seq": "50",
+        "hierarchy": [
+            "Other Reserve and Equity",
+            "Other Equity Components"
+        ]
+    },
+    {
+        "rowId": "12",
+        "displayName": "TotalEquity",
+        "type": "BOLD",
+        "seq": "51",
+        "hierarchy": [
+            "TotalEquity"
+        ]
+    },
+    {
+        "rowId": "SUM(71,39,12)",
+        "displayName": "Total Liabilities",
+        "type": "BOLD",
+        "seq": "52",
+        "hierarchy": [
+            "Total Liabilities"
+        ]
+    }
+]

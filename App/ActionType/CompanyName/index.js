@@ -1,0 +1,1 @@
+export const HOME_COMPANY_NAME="HOME_COMPANY_NAME"

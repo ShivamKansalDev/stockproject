@@ -1,0 +1,1036 @@
+[
+        {
+                "rowId": "",
+                "displayName": "PROFIT AND LOSS (OPERATING)",
+                "type": "Section",
+                "seq": "1",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)"
+                ]
+        },
+        {
+                "rowId": "2",
+                "displayName": "Gross premiums Written",
+                "type": "BOLD",
+                "seq": "2",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Gross premiums Written"
+                ]
+        },
+        {
+                "rowId": "3",
+                "displayName": "First Year Premiums",
+                "type": "",
+                "seq": "3",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Gross premiums Written",
+                        "First Year Premiums"
+                ]
+        },
+        {
+                "rowId": "4",
+                "displayName": "Renewal Premiums",
+                "type": "",
+                "seq": "4",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Gross premiums Written",
+                        "Renewal Premiums"
+                ]
+        },
+        {
+                "rowId": "5",
+                "displayName": "Single Premiums",
+                "type": "",
+                "seq": "5",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Gross premiums Written",
+                        "Single Premiums"
+                ]
+        },
+        {
+                "rowId": "6",
+                "displayName": "Other Gross Premiums",
+                "type": "",
+                "seq": "6",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Gross premiums Written",
+                        "Single Premiums"
+                ]
+        },
+        {
+                "rowId": "7",
+                "displayName": "Net Premiums Written",
+                "type": "",
+                "seq": "7",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Net Premiums Written"
+                ]
+        },
+        {
+                "rowId": "15",
+                "displayName": "Total Income",
+                "type": "BOLD",
+                "seq": "8",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Income"
+                ]
+        },
+        {
+                "rowId": "8",
+                "displayName": "Premium Earned (NET)",
+                "type": "",
+                "seq": "9",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Income",
+                        "Premium Earned (NET)"
+                ]
+        },
+        {
+                "rowId": "9",
+                "displayName": "Income from Investments(NET)",
+                "type": "",
+                "seq": "10",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Income",
+                        "Income from Investements(NET)"
+                ]
+        },
+        {
+                "rowId": "10",
+                "displayName": "Other Income",
+                "type": "",
+                "seq": "11",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Income",
+                        "Other Income"
+                ]
+        },
+        {
+                "rowId": "11",
+                "displayName": "Foreign Exchange Gain/Loss",
+                "type": "",
+                "seq": "12",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Income",
+                        "Other Income",
+                        "Foreign Exchange Gain/Loss"
+                ]
+        },
+        {
+                "rowId": "12",
+                "displayName": "Investment Income from Pool",
+                "type": "",
+                "seq": "13",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Income",
+                        "Other Income",
+                        "Investment Income from Pool"
+                ]
+        },
+        {
+                "rowId": "13",
+                "displayName": "Miscellaneous Income",
+                "type": "",
+                "seq": "14",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Income",
+                        "Other Income",
+                        "Miscellaneous Income"
+                ]
+        },
+        {
+                "rowId": "14",
+                "displayName": "Transfer of fund from Shareholder's Fund",
+                "type": "",
+                "seq": "15",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Income",
+                        "Transfer of fund from Shareholder's Fund"
+                ]
+        },
+        {
+                "rowId": "38",
+                "displayName": "Total Expenses",
+                "type": "BOLD",
+                "seq": "16",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses"
+                ]
+        },
+        {
+                "rowId": "21",
+                "displayName": "Net Commission",
+                "type": "",
+                "seq": "17",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Net Commission"
+                ]
+        },
+        {
+                "rowId": "17",
+                "displayName": "First Year Commission",
+                "type": "",
+                "seq": "18",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Net Commission",
+                        "First Year Commission"
+                ]
+        },
+        {
+                "rowId": "18",
+                "displayName": "Renewal Commission",
+                "type": "",
+                "seq": "19",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Net Commission",
+                        "Renewal Commission"
+                ]
+        },
+        {
+                "rowId": "19",
+                "displayName": "Single Commission",
+                "type": "",
+                "seq": "20",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Net Commission",
+                        "Single Commission"
+                ]
+        },
+        {
+                "rowId": "20",
+                "displayName": "Other Commission",
+                "type": "",
+                "seq": "21",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Net Commission",
+                        "Other Commission"
+                ]
+        },
+        {
+                "rowId": "22",
+                "displayName": "Operating Expense",
+                "type": "",
+                "seq": "22",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Operating Expense"
+                ]
+        },
+        {
+                "rowId": "23",
+                "displayName": "Employees Remuneration",
+                "type": "",
+                "seq": "23",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Operating Expense",
+                        "Employees Remuneration"
+                ]
+        },
+        {
+                "rowId": "24",
+                "displayName": "Advertisements",
+                "type": "",
+                "seq": "24",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Operating Expense",
+                        "Advertisements"
+                ]
+        },
+        {
+                "rowId": "25",
+                "displayName": "Business Dev Expenses",
+                "type": "",
+                "seq": "25",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Operating Expense",
+                        "Business Dev Expenses"
+                ]
+        },
+        {
+                "rowId": "26",
+                "displayName": "Other Operating Expenses",
+                "type": "",
+                "seq": "26",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Operating Expense",
+                        "Other Operating Expenses"
+                ]
+        },
+        {
+                "rowId": "27",
+                "displayName": "Premium Deficiency",
+                "type": "",
+                "seq": "27",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Premium Deficiency"
+                ]
+        },
+        {
+                "rowId": "28",
+                "displayName": "Incurred Claim",
+                "type": "",
+                "seq": "28",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Incurred Claim"
+                ]
+        },
+        {
+                "rowId": "29",
+                "displayName": "Claims Paid",
+                "type": "",
+                "seq": "29",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Incurred Claim",
+                        "Claims Paid"
+                ]
+        },
+        {
+                "rowId": "30",
+                "displayName": "Changes in Outstanding Claim",
+                "type": "",
+                "seq": "30",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Incurred Claim",
+                        "Changes in Outstanding Claim"
+                ]
+        },
+        {
+                "rowId": "31",
+                "displayName": "Changes in Acturial Liabilities",
+                "type": "",
+                "seq": "31",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Incurred Claim",
+                        "Changes in Acturial Liabilities"
+                ]
+        },
+        {
+                "rowId": "SUM(34,35,36,37)",
+                "displayName": "Provisions",
+                "type": "",
+                "seq": "32",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Provisions"
+                ]
+        },
+        {
+                "rowId": "34",
+                "displayName": "Provision for Doubtful Debts",
+                "type": "",
+                "seq": "33",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Provisions",
+                        "Provision for Doubtful Debts"
+                ]
+        },
+        {
+                "rowId": "35",
+                "displayName": "Provision for Diminution in Investments",
+                "type": "",
+                "seq": "34",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Provisions",
+                        "Provision for Diminution in Investments"
+                ]
+        },
+        {
+                "rowId": "36",
+                "displayName": "Provision for GST",
+                "type": "",
+                "seq": "35",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Provisions",
+                        "Provision for GST"
+                ]
+        },
+        {
+                "rowId": "37",
+                "displayName": "Provision for Tax",
+                "type": "",
+                "seq": "36",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Expenses",
+                        "Provisions",
+                        "Provision for Tax"
+                ]
+        },
+        {
+                "rowId": "39",
+                "displayName": "Operating Profit/Loss",
+                "type": "BOLD",
+                "seq": "37",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Operating Profit/Loss"
+                ]
+        },
+        {
+                "rowId": "40",
+                "displayName": "Appropriations",
+                "type": "",
+                "seq": "38",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Appropriations"
+                ]
+        },
+        {
+                "rowId": "41",
+                "displayName": "Transfer to Profit/Loss A/c",
+                "type": "",
+                "seq": "39",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Appropriations",
+                        "Transfer to Profit/Loss A/c"
+                ]
+        },
+        {
+                "rowId": "42",
+                "displayName": "Transfer to Reserves",
+                "type": "",
+                "seq": "40",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Appropriations",
+                        "Transfer to Reserves"
+                ]
+        },
+        {
+                "rowId": "43",
+                "displayName": "Fund for Future Appropriations",
+                "type": "",
+                "seq": "41",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Appropriations",
+                        "Fund for Future Appropriations"
+                ]
+        },
+        {
+                "rowId": "49",
+                "displayName": "Total Surplus/Deficit",
+                "type": "BOLD",
+                "seq": "42",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Surplus/Deficit"
+                ]
+        },
+        {
+                "rowId": "45",
+                "displayName": "Interim Bonus",
+                "type": "",
+                "seq": "43",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Surplus/Deficit",
+                        "Interim Bonus"
+                ]
+        },
+        {
+                "rowId": "46",
+                "displayName": "Terminal Bonus",
+                "type": "",
+                "seq": "44",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Surplus/Deficit",
+                        "Terminal Bonus"
+                ]
+        },
+        {
+                "rowId": "47",
+                "displayName": "Bonus to Policyholders",
+                "type": "",
+                "seq": "45",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Surplus/Deficit",
+                        "Bonus to Policyholders"
+                ]
+        },
+        {
+                "rowId": "48",
+                "displayName": "Surplus in Revenue A/c",
+                "type": "",
+                "seq": "46",
+                "hierarchy": [
+                        "PROFIT AND LOSS (OPERATING)",
+                        "Total Surplus/Deficit",
+                        "Surplus in Revenue A/c"
+                ]
+        },
+        {
+                "rowId": "",
+                "displayName": "PROFIT AND LOSS (NON-OPERATING)",
+                "type": "SECTION",
+                "seq": "47",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)"
+                ]
+        },
+        {
+                "rowId": "51",
+                "displayName": "Income in Shareholder's A/c",
+                "type": "",
+                "seq": "48",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Income in Shareholder's A/c"
+                ]
+        },
+        {
+                "rowId": "52",
+                "displayName": "Transfer from Policyholders Fund",
+                "type": "",
+                "seq": "49",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Income in Shareholder's A/c",
+                        "Transfer from Policyholders Fund"
+                ]
+        },
+        {
+                "rowId": "53",
+                "displayName": "Net Reinsurance Premium",
+                "type": "",
+                "seq": "50",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Income in Shareholder's A/c",
+                        "Net Reinsurance Premium"
+                ]
+        },
+        {
+                "rowId": "54",
+                "displayName": "Total Income under Shareholder A/c",
+                "type": "",
+                "seq": "51",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Income in Shareholder's A/c",
+                        "Total Income under Shareholder A/c"
+                ]
+        },
+        {
+                "rowId": "55",
+                "displayName": "Income from Investment",
+                "type": "",
+                "seq": "52",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Income in Shareholder's A/c",
+                        "Total Income under Shareholder A/c",
+                        "Income from Investment"
+                ]
+        },
+        {
+                "rowId": "56",
+                "displayName": "Other Income",
+                "type": "",
+                "seq": "53",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Income in Shareholder's A/c",
+                        "Total Income under Shareholder A/c",
+                        "Other Income"
+                ]
+        },
+        {
+                "rowId": "64",
+                "displayName": "Total Expenses",
+                "type": "BOLD",
+                "seq": "54",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Total Expenses 2"
+                ]
+        },
+        {
+                "rowId": "57",
+                "displayName": "Expenses",
+                "type": "",
+                "seq": "55",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Total Expenses 2",
+                        "Expenses"
+                ]
+        },
+        {
+                "rowId": "58",
+                "displayName": "Reinsurance Claims",
+                "type": "",
+                "seq": "56",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Total Expenses 2",
+                        "Reinsurance Claims"
+                ]
+        },
+        {
+                "rowId": "59",
+                "displayName": "Expense related to Reinsurance",
+                "type": "",
+                "seq": "57",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Total Expenses 2",
+                        "Expense related to Reinsurance"
+                ]
+        },
+        {
+                "rowId": "60",
+                "displayName": "Other Expenses",
+                "type": "",
+                "seq": "58",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Total Expenses 2",
+                        "Other Expenses"
+                ]
+        },
+        {
+                "rowId": "61",
+                "displayName": "Transfer to Policyholders A/c",
+                "type": "",
+                "seq": "59",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Total Expenses 2",
+                        "Transfer to Policyholders A/c"
+                ]
+        },
+        {
+                "rowId": "62",
+                "displayName": "Provision for Doubtful Debts",
+                "type": "",
+                "seq": "60",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Total Expenses 2",
+                        "Provision for Doubtful Debts"
+                ]
+        },
+        {
+                "rowId": "63",
+                "displayName": "Amortisation of Premiums",
+                "type": "",
+                "seq": "61",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Total Expenses 2",
+                        "Amortisation of Premiums"
+                ]
+        },
+        {
+                "rowId": "69",
+                "displayName": "Profit Before Tax (PBT)",
+                "type": "BOLD",
+                "seq": "62",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Profit Before Tax (PBT)"
+                ]
+        },
+        {
+                "rowId": "70",
+                "displayName": "Less: Provisions for Tax",
+                "type": "",
+                "seq": "63",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Less: Provisions for Tax"
+                ]
+        },
+        {
+                "rowId": "72",
+                "displayName": "Less:Extraordinary Items",
+                "type": "",
+                "seq": "64",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Less:Extraordinary Items"
+                ]
+        },
+        {
+                "rowId": "73",
+                "displayName": "Profit After Tax (PAT)",
+                "type": "",
+                "seq": "65",
+                "hierarchy": [
+                        "PROFIT AND LOSS (NON-OPERATING)",
+                        "Profit After Tax (PAT)"
+                ]
+        },
+        {
+                "rowId": "",
+                "displayName": "BALANCE SHEET",
+                "type": "SECTION",
+                "seq": "66",
+                "hierarchy": [
+                        "BALANCE SHEET"
+                ]
+        },
+        {
+                "rowId": "82",
+                "displayName": "Equity Share Capital",
+                "type": "",
+                "seq": "67",
+                "hierarchy": [
+                        "BALANCE SHEET",
+                        "Equity Share Capital"
+                ]
+        },
+        {
+                "rowId": "83",
+                "displayName": "Reserves & Surplus",
+                "type": "",
+                "seq": "68",
+                "hierarchy": [
+                        "BALANCE SHEET",
+                        "Reserves & Surplus"
+                ]
+        },
+        {
+                "rowId": "84",
+                "displayName": "Fair Value Change A/c",
+                "type": "",
+                "seq": "69",
+                "hierarchy": [
+                        "BALANCE SHEET",
+                        "Fair Value Change A/c"
+                ]
+        },
+        {
+                "rowId": "85",
+                "displayName": "Face Value",
+                "type": "",
+                "seq": "70",
+                "hierarchy": [
+                        "BALANCE SHEET",
+                        "Face Value"
+                ]
+        },
+        {
+                "rowId": "SUM(87,91)",
+                "displayName": "Total Assets",
+                "type": "",
+                "seq": "71",
+                "hierarchy": [
+                        "BALANCE SHEET",
+                        "Total Assets"
+                ]
+        },
+        {
+                "rowId": "87",
+                "displayName": "Investments",
+                "type": "",
+                "seq": "72",
+                "hierarchy": [
+                        "BALANCE SHEET",
+                        "Total Assets",
+                        "Investments"
+                ]
+        },
+        {
+                "rowId": "88",
+                "displayName": "Shareholder's Fund",
+                "type": "",
+                "seq": "73",
+                "hierarchy": [
+                        "BALANCE SHEET",
+                        "Total Assets",
+                        "Investments",
+                        "Shareholder's Fund"
+                ]
+        },
+        {
+                "rowId": "89",
+                "displayName": "Policyholders' Fund",
+                "type": "",
+                "seq": "74",
+                "hierarchy": [
+                        "BALANCE SHEET",
+                        "Total Assets",
+                        "Investments",
+                        "Policyholders' Fund"
+                ]
+        },
+        {
+                "rowId": "90",
+                "displayName": "Assets to Cover Liability",
+                "type": "",
+                "seq": "75",
+                "hierarchy": [
+                        "BALANCE SHEET",
+                        "Total Assets",
+                        "Investments",
+                        "Assets to Cover Liability"
+                ]
+        },
+        {
+                "rowId": "91",
+                "displayName": "Other Assets",
+                "type": "",
+                "seq": "76",
+                "hierarchy": [
+                        "BALANCE SHEET",
+                        "Total Assets",
+                        "Other Assets"
+                ]
+        },
+        {
+                "rowId": "92",
+                "displayName": "Nominal Value per Share",
+                "type": "",
+                "seq": "77",
+                "hierarchy": [
+                        "BALANCE SHEET",
+                        "Nominal Value per Share"
+                ]
+        },
+        {
+                "rowId": "77",
+                "displayName": "Dividend Per Share",
+                "type": "",
+                "seq": "78",
+                "hierarchy": [
+                        "BALANCE SHEET",
+                        "Dividend Per Share"
+                ]
+        },
+        {
+                "rowId": "78",
+                "displayName": "Interim Dividend",
+                "type": "",
+                "seq": "79",
+                "hierarchy": [
+                        "BALANCE SHEET",
+                        "Dividend Per Share",
+                        "Interim Dividend"
+                ]
+        },
+        {
+                "rowId": "79",
+                "displayName": "Final Dividend",
+                "type": "",
+                "seq": "80",
+                "hierarchy": [
+                        "BALANCE SHEET",
+                        "Dividend Per Share",
+                        "Final Dividend"
+                ]
+        },
+        {
+                "rowId": "",
+                "displayName": "RATIOS",
+                "type": "SECTION",
+                "seq": "81",
+                "hierarchy": [
+                        "RATIOS"
+                ]
+        },
+        {
+                "rowId": "94",
+                "displayName": "Solvency Ratio",
+                "type": "",
+                "seq": "82",
+                "hierarchy": [
+                        "RATIOS",
+                        "Solvency Ratio"
+                ]
+        },
+        {
+                "rowId": "95",
+                "displayName": "Expenses of Management Ratio",
+                "type": "",
+                "seq": "83",
+                "hierarchy": [
+                        "RATIOS",
+                        "Expenses of Management Ratio"
+                ]
+        },
+        {
+                "rowId": "96",
+                "displayName": "Policyholders to Liability Fund",
+                "type": "",
+                "seq": "84",
+                "hierarchy": [
+                        "RATIOS",
+                        "Policyholders to Liability Fund"
+                ]
+        },
+        {
+                "rowId": "97",
+                "displayName": "Incurred Claim Ratio",
+                "type": "",
+                "seq": "85",
+                "hierarchy": [
+                        "RATIOS",
+                        "Incurred Claim Ratio"
+                ]
+        },
+        {
+                "rowId": "98",
+                "displayName": "Net Retention Ratio",
+                "type": "",
+                "seq": "86",
+                "hierarchy": [
+                        "RATIOS",
+                        "Net Retention Ratio"
+                ]
+        },
+        {
+                "rowId": "99",
+                "displayName": "Combined Ratio",
+                "type": "",
+                "seq": "87",
+                "hierarchy": [
+                        "RATIOS",
+                        "Combined Ratio"
+                ]
+        },
+        {
+                "rowId": "100",
+                "displayName": "Adjusted Combined Ratio",
+                "type": "",
+                "seq": "88",
+                "hierarchy": [
+                        "RATIOS",
+                        "Adjusted Combined Ratio"
+                ]
+        },
+        {
+                "rowId": "",
+                "displayName": "EPS",
+                "type": "SECTION",
+                "seq": "89",
+                "hierarchy": [
+                        "EPS"
+                ]
+        },
+        {
+                "rowId": "102",
+                "displayName": "Basic EPS",
+                "type": "",
+                "seq": "90",
+                "hierarchy": [
+                        "EPS",
+                        "Basic EPS"
+                ]
+        },
+        {
+                "rowId": "103",
+                "displayName": "Diluted EPS",
+                "type": "",
+                "seq": "91",
+                "hierarchy": [
+                        "EPS",
+                        "Diluted EPS"
+                ]
+        },
+        {
+                "rowId": "",
+                "displayName": "ASSET QUALITY",
+                "type": "SECTION",
+                "seq": "92",
+                "hierarchy": [
+                        "ASSET QUALITY"
+                ]
+        },
+        {
+                "rowId": "105",
+                "displayName": "Gross NPA",
+                "type": "",
+                "seq": "93",
+                "hierarchy": [
+                        "ASSET QUALITY",
+                        "Gross NPA"
+                ]
+        },
+        {
+                "rowId": "106",
+                "displayName": "Net NPA",
+                "type": "",
+                "seq": "94",
+                "hierarchy": [
+                        "ASSET QUALITY",
+                        "Net NPA"
+                ]
+        },
+        {
+                "rowId": "107",
+                "displayName": "Gross NPA%",
+                "type": "",
+                "seq": "95",
+                "hierarchy": [
+                        "ASSET QUALITY",
+                        "Gross NPA%"
+                ]
+        },
+        {
+                "rowId": "108",
+                "displayName": "Net NPA%",
+                "type": "",
+                "seq": "96",
+                "hierarchy": [
+                        "ASSET QUALITY",
+                        "NET NPA%"
+                ]
+        }
+]

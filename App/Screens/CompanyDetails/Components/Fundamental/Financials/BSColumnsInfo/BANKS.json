@@ -1,0 +1,277 @@
+[{
+        "rowId": "",
+        "displayName": "ASSETS: ",
+        "type": "Section",
+        "seq": "1",
+        "hierarchy": ["ASSETS: "]
+    }, {
+        "rowId": "1",
+        "displayName": "Fixed Assets",
+        "type": "",
+        "seq": "2",
+        "hierarchy": ["Fixed Assets"]
+    }, {
+        "rowId": "2",
+        "displayName": "Property, Plant and Equipments",
+        "type": "",
+        "seq": "3",
+        "hierarchy": ["Fixed Assets", "Property, Plant and Equipments"]
+    }, {
+        "rowId": "3",
+        "displayName": "Intangible Assets",
+        "type": "",
+        "seq": "4",
+        "hierarchy": ["Fixed Assets", "Intangible Assets"]
+    }, {
+        "rowId": "4",
+        "displayName": "Intangible Assets under Development",
+        "type": "",
+        "seq": "5",
+        "hierarchy": ["Fixed Assets", "Intangible Assets under Development"]
+    }, {
+        "rowId": "5",
+        "displayName": "Capital Work in Progress",
+        "type": "",
+        "seq": "6",
+        "hierarchy": ["Capital Work in Progress"]
+    }, {
+        "rowId": "6",
+        "displayName": "Investments",
+        "type": "",
+        "seq": "7",
+        "hierarchy": ["Investments"]
+    }, {
+        "rowId": "7",
+        "displayName": "Investments in Subsidiaries",
+        "type": "",
+        "seq": "8",
+        "hierarchy": ["Investments", "Investments in Subsidiaries"]
+    }, {
+        "rowId": "8",
+        "displayName": "Investments",
+        "type": "",
+        "seq": "9",
+        "hierarchy": ["Investments", "Investments"]
+    }, {
+        "rowId": "11",
+        "displayName": "Loans and Advances and Other Assets",
+        "type": "",
+        "seq": "10",
+        "hierarchy": ["Loans and Advances and Other Assets"]
+    }, {
+        "rowId": "12",
+        "displayName": "Loans",
+        "type": "",
+        "seq": "11",
+        "hierarchy": ["Loans and Advances and Other Assets", "Loans"]
+    }, {
+        "rowId": "13",
+        "displayName": "Others Financial Assets",
+        "type": "",
+        "seq": "12",
+        "hierarchy": ["Loans and Advances and Other Assets", "Others Financial Assets"]
+    }, {
+        "rowId": "14",
+        "displayName": "Current Tax Assets",
+        "type": "",
+        "seq": "13",
+        "hierarchy": ["Loans and Advances and Other Assets", "Current Tax Assets"]
+    }, {
+        "rowId": "15",
+        "displayName": "Insurance Related Assets",
+        "type": "",
+        "seq": "14",
+        "hierarchy": ["Loans and Advances and Other Assets", "Insurance Related Assets"]
+    }, {
+        "rowId": "16",
+        "displayName": "Other Assets",
+        "type": "",
+        "seq": "15",
+        "hierarchy": ["Loans and Advances and Other Assets", "Other Assets"]
+    }, {
+        "rowId": "17",
+        "displayName": "Deferred Tax Assets",
+        "type": "",
+        "seq": "16",
+        "hierarchy": ["Deferred Tax Assets"]
+    }, {
+        "rowId": "18",
+        "displayName": "Cash and Cash Equivalents",
+        "type": "",
+        "seq": "17",
+        "hierarchy": ["Cash and Cash Equivalents"]
+    }, {
+        "rowId": "19",
+        "displayName": "Balances With Banks",
+        "type": "",
+        "seq": "18",
+        "hierarchy": ["Cash and Cash Equivalents", "Balances With Banks"]
+    }, {
+        "rowId": "20",
+        "displayName": "Cash and Balances With RBI",
+        "type": "",
+        "seq": "19",
+        "hierarchy": ["Cash and Cash Equivalents", "Cash and Balances With RBI"]
+    }, {
+        "rowId": "21",
+        "displayName": "TOTAL ASSETS",
+        "type": "BOLD",
+        "seq": "20",
+        "hierarchy": ["TOTAL ASSETS"]
+    }, {
+        "rowId": "",
+        "displayName": "",
+        "type": "EMPTY",
+        "seq": "21"
+    }, {
+        "rowId": "",
+        "displayName": "LIABILITIES: ",
+        "type": "Section",
+        "seq": "22",
+        "hierarchy": ["LIABILITIES: "]
+    }, {
+        "rowId": "23",
+        "displayName": "Deposits and Borrowings",
+        "type": "",
+        "seq": "23",
+        "hierarchy": ["Deposits and Borrowings"]
+    }, {
+        "rowId": "24",
+        "displayName": "Deposits",
+        "type": "",
+        "seq": "24",
+        "hierarchy": ["Deposits and Borrowings", "Deposits"]
+    }, {
+        "rowId": "25",
+        "displayName": "Borrowings",
+        "type": "",
+        "seq": "25",
+        "hierarchy": ["Deposits and Borrowings", "Borrowings"]
+    }, {
+        "rowId": "28",
+        "displayName": "Borrowings - Secured",
+        "type": "",
+        "seq": "26",
+        "hierarchy": ["Deposits and Borrowings", "Borrowings", "Borrowings - Secured"]
+    }, {
+        "rowId": "29",
+        "displayName": "Borrowings - Unsecured",
+        "type": "",
+        "seq": "27",
+        "hierarchy": ["Deposits and Borrowings", "Borrowings", "Borrowings - Unsecured"]
+    }, {
+        "rowId": "30",
+        "displayName": "Other Liabilities",
+        "type": "",
+        "seq": "28",
+        "hierarchy": ["Other Liabilities"]
+    }, {
+        "rowId": "31",
+        "displayName": "Others Financial Liabilities",
+        "type": "",
+        "seq": "29",
+        "hierarchy": ["Other Liabilities", "Others Financial Liabilities"]
+    }, {
+        "rowId": "32",
+        "displayName": "Insurance Related Liabilities",
+        "type": "",
+        "seq": "30",
+        "hierarchy": ["Other Liabilities", "Insurance Related Liabilities"]
+    }, {
+        "rowId": "33",
+        "displayName": "Other Liabilities",
+        "type": "",
+        "seq": "31",
+        "hierarchy": ["Other Liabilities", "Other Liabilities"]
+    }, {
+        "rowId": "34",
+        "displayName": "Provisions",
+        "type": "",
+        "seq": "32",
+        "hierarchy": ["Provisions"]
+    }, {
+        "rowId": "35",
+        "displayName": "Current Tax Liabilities",
+        "type": "",
+        "seq": "33",
+        "hierarchy": ["Provisions", "Current Tax Liabilities"]
+    }, {
+        "rowId": "36",
+        "displayName": "Other Provisions",
+        "type": "",
+        "seq": "34",
+        "hierarchy": ["Provisions", "Other Provisions"]
+    }, {
+        "rowId": "37",
+        "displayName": "Deferred Tax Liabilities",
+        "type": "",
+        "seq": "35",
+        "hierarchy": ["Deferred Tax Liabilities"]
+    }, {
+        "rowId": "SUM(23,30,34,37)",
+        "displayName": "Total Liabilities",
+        "type": "BOLD",
+        "seq": "36",
+        "hierarchy": ["Total Liabilities"]
+    }, {
+        "rowId": "",
+        "displayName": "SHARE HOLDER'S FUND: ",
+        "type": "Section",
+        "seq": "37",
+        "hierarchy": ["SHARE HOLDER'S FUND: "]
+    }, {
+        "rowId": "39",
+        "displayName": "Share Capital",
+        "type": "",
+        "seq": "38",
+        "hierarchy": ["Share Capital"]
+    }, {
+        "rowId": "40",
+        "displayName": "Equity Capital",
+        "type": "",
+        "seq": "39",
+        "hierarchy": ["Share Capital", "Equity Capital"]
+    }, {
+        "rowId": "41",
+        "displayName": "Preference Capital",
+        "type": "",
+        "seq": "40",
+        "hierarchy": ["Share Capital", "Preference Capital"]
+    }, {
+        "rowId": "42",
+        "displayName": "Unclassified Capital",
+        "type": "",
+        "seq": "41",
+        "hierarchy": ["Share Capital", "Unclassified Capital"]
+    }, {
+        "rowId": "43",
+        "displayName": "Other Equity",
+        "type": "",
+        "seq": "42",
+        "hierarchy": ["Other Equity"]
+    }, {
+        "rowId": "44",
+        "displayName": "Reserves and Surplus",
+        "type": "",
+        "seq": "43",
+        "hierarchy": ["Other Equity", "Reserves and Surplus"]
+    }, {
+        "rowId": "45",
+        "displayName": "Other Equity Components",
+        "type": "",
+        "seq": "44",
+        "hierarchy": ["Other Equity", "Other Equity Components"]
+    }, {
+        "rowId": "46",
+        "displayName": "Total Shareholder's Fund",
+        "type": "BOLD",
+        "seq": "45",
+        "hierarchy": ["Total Shareholder's Fund"]
+    }, {
+        "rowId": "48",
+        "displayName": "TOTAL EQUITY AND LIABILITIES",
+        "type": "BOLD",
+        "seq": "46",
+        "hierarchy": ["TOTAL EQUITY AND LIABILITIES"]
+    }
+]

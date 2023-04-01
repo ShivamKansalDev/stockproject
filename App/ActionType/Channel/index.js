@@ -1,0 +1,2 @@
+export const CHANNEL_DETAILS = 'CHANNEL_DETAILS';
+export const ADD_REMOVE_USERS = 'ADD_REMOVE_USERS';

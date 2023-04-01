@@ -1,0 +1,1 @@
+export const NIFTY_SENSEX="NIFTY_SENSEX"

@@ -1,0 +1,2 @@
+export const LISTED_CHART_BSE = "LISTED_CHART_BSE"
+export const LISTED_CHART_NSE = "LISTED_CHART_NSE"

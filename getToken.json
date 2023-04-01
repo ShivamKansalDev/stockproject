@@ -1,0 +1,26 @@
+{
+  "uid": "hGUCoJos4sR8pl0WXpxB4h92vUH3",
+  "emailVerified": false,
+  "displayName": "Shivam",
+  "isAnonymous": false,
+  "phoneNumber": "+919501263426",
+  "providerData": [
+    {
+      "providerId": "phone",
+      "uid": "+919501263426",
+      "displayName": null,
+      "email": null,
+      "phoneNumber": "+919501263426",
+      "photoURL": null
+    }
+  ],
+  "stsTokenManager": {
+    "refreshToken": "APJWN8cVznI0smBLA7EXiy5OJ3U1CXmNGNcN3pIGePPMipe1pnuYYbsGk5RmElvOnjGtQ1GlWjVPdFpT3qEOegm142G4B6ilp52wVNy7XSR-wvXzovuzipIJfxcSj_twJUDQRgPHV52yGiY620VVM9LT965HHGJ5Li_D1C9D9y2atcEYdMblXXEWCkUn34Z3TR4-3Z3gKE9O64OOUe8ztn7omMKfDvpChA",
+    "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImY4NzZiNzIxNDAwYmZhZmEyOWQ0MTFmZTYwODE2YmRhZWMyM2IzODIiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiU2hpdmFtIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL3N0b2Nra25vY2tzLXByb2QiLCJhdWQiOiJzdG9ja2tub2Nrcy1wcm9kIiwiYXV0aF90aW1lIjoxNjc4MDk3OTc5LCJ1c2VyX2lkIjoiaEdVQ29Kb3M0c1I4cGwwV1hweEI0aDkydlVIMyIsInN1YiI6ImhHVUNvSm9zNHNSOHBsMFdYcHhCNGg5MnZVSDMiLCJpYXQiOjE2NzgwOTc5ODAsImV4cCI6MTY3ODEwMTU4MCwicGhvbmVfbnVtYmVyIjoiKzkxOTUwMTI2MzQyNiIsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsicGhvbmUiOlsiKzkxOTUwMTI2MzQyNiJdfSwic2lnbl9pbl9wcm92aWRlciI6InBob25lIn19.ZJWv-Ba4GmfOUNczA-n6kUB4OI44Kq2_u-p-N0ld5-_a84Kzsq9YaRc37EIK3ZvNOR1IJNk4__XXW_14GvjfuqIrIm9dcX6XErpOw6PeEmIruCNRO7i4q9XoY_kIfnZinMK04Fc_H6XKjugsWfxPMLd8k8QWGjOwk4MktfiCUDDRYc_a-6B8eZWJSbImtkxxxuc034AMw9lGLNPg47K-x0vIzqPLHgwO227gvVAHUp_wnFJgqDN3xNSuIc9T7fPykmkGYFxUpyEmUTafZmQvTdDpta1iM6ekad1t36U6CakU9Ef8uvG-ERL1USQD1AGk_ik10TQrBhkpkIeNvqml8g",
+    "expirationTime": 1678101580417
+  },
+  "createdAt": "1677680524766",
+  "lastLoginAt": "1678097979124",
+  "apiKey": "AIzaSyAUhDNyfjhckQNyc9epgFh_DzGUMjHUyEo",
+  "appName": "[DEFAULT]"
+}

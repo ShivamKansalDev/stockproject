@@ -1,0 +1,725 @@
+[
+    {
+        "rowId": "",
+        "displayName": "PROFIT AND LOSS",
+        "type": "Section",
+        "seq": "1",
+        "hierarchy": [
+            "Profit and Loss"
+        ]
+    },
+    {
+        "rowId": "1",
+        "displayName": "Income from operations",
+        "type": "",
+        "seq": "2",
+        "hierarchy": [
+            "Profit and Loss",
+            "Income from operations"
+        ]
+    },
+    {
+        "rowId": "2",
+        "displayName": "Other Operating Income",
+        "type": "",
+        "seq": "3",
+        "hierarchy": [
+            "Profit and Loss",
+            "Other Operating Income"
+        ]
+    },
+    {
+        "rowId": "6",
+        "displayName": "Other Income",
+        "type": "",
+        "seq": "4",
+        "hierarchy": [
+            "Profit and Loss",
+            "Other Income"
+        ]
+    },
+    {
+        "rowId": "4",
+        "displayName": "Total Expenses",
+        "type": "",
+        "seq": "5",
+        "hierarchy": [
+            "Profit and Loss",
+            "Total Expenses"
+        ]
+    },
+    {
+        "rowId": "7",
+        "displayName": "Profit Before Interest and Tax (PBIT)",
+        "type": "BOLD",
+        "seq": "6",
+        "hierarchy": [
+            "Profit and Loss",
+            "Profit Before Interest and Tax (PBIT)"
+        ]
+    },
+    {
+        "rowId": "8",
+        "displayName": "Share of Profits / Loss of Associated Companies Before Tax",
+        "type": "",
+        "seq": "7",
+        "hierarchy": [
+            "Profit and Loss",
+            "Share of Profits / Loss of Associated Companies Before Tax"
+        ]
+    },
+    {
+        "rowId": "9",
+        "displayName": "Minority Interest",
+        "type": "",
+        "seq": "8",
+        "hierarchy": [
+            "Profit and Loss",
+            "Minority Interest"
+        ]
+    },
+    {
+        "rowId": "10",
+        "displayName": "Exceptional Items",
+        "type": "",
+        "seq": "9",
+        "hierarchy": [
+            "Profit and Loss",
+            "Exceptional Items"
+        ]
+    },
+    {
+        "rowId": "11",
+        "displayName": "Other Adjustements before Tax",
+        "type": "",
+        "seq": "10",
+        "hierarchy": [
+            "Profit and Loss",
+            "Other Adjustements before Tax"
+        ]
+    },
+    {
+        "rowId": "12",
+        "displayName": "Profit Before Tax (PBT)",
+        "type": "BOLD",
+        "seq": "11",
+        "hierarchy": [
+            "Profit and Loss",
+            "Profit Before Tax (PBT)"
+        ]
+    },
+    {
+        "rowId": "13",
+        "displayName": "Total Tax",
+        "type": "",
+        "seq": "12",
+        "hierarchy": [
+            "Profit and Loss",
+            "Total Tax"
+        ]
+    },
+    {
+        "rowId": "14",
+        "displayName": "Profit After Tax (PAT)",
+        "type": "BOLD",
+        "seq": "13",
+        "hierarchy": [
+            "Profit and Loss",
+            "Profit After Tax (PAT)"
+        ]
+    },
+    {
+        "rowId": "15",
+        "displayName": "Profit / (Loss) from Discontinued Operations",
+        "type": "",
+        "seq": "14",
+        "hierarchy": [
+            "Profit and Loss",
+            "Profit / (Loss) from Discontinued Operations"
+        ]
+    },
+    {
+        "rowId": "16",
+        "displayName": "Net profit from Ordinary Activities/Discontinued Operations After Tax",
+        "type": "",
+        "seq": "15",
+        "hierarchy": [
+            "Profit and Loss",
+            "Net profit from Ordinary Activities/Discontinued Operations After Tax"
+        ]
+    },
+    {
+        "rowId": "17",
+        "displayName": "Extraordinary items",
+        "type": "",
+        "seq": "16",
+        "hierarchy": [
+            "Profit and Loss",
+            "Extraordinary items"
+        ]
+    },
+    {
+        "rowId": "18",
+        "displayName": "Other Adjustments Before Tax",
+        "type": "",
+        "seq": "17",
+        "hierarchy": [
+            "Profit and Loss",
+            "Other Adjustments Before Tax"
+        ]
+    },
+    {
+        "rowId": "19",
+        "displayName": "Net Profit After Tax",
+        "type": "BOLD",
+        "seq": "18",
+        "hierarchy": [
+            "Profit and Loss",
+            "Net Profit After Tax"
+        ]
+    },
+    {
+        "rowId": "20",
+        "displayName": "Share of Profits / Loss of Associated Companies After Tax",
+        "type": "",
+        "seq": "19",
+        "hierarchy": [
+            "Profit and Loss",
+            "Share of Profits / Loss of Associated Companies After Tax"
+        ]
+    },
+    {
+        "rowId": "21",
+        "displayName": "Minority Interest After Net Profit",
+        "type": "",
+        "seq": "20",
+        "hierarchy": [
+            "Profit and Loss",
+            "Minority Interest After Net Profit"
+        ]
+    },
+    {
+        "rowId": "22",
+        "displayName": "Net Profit After Tax, Minority Interest, Associate Companies",
+        "type": "BOLD",
+        "seq": "21",
+        "hierarchy": [
+            "Profit and Loss",
+            "Net Profit After Tax, Minority Interest, Associate Companies"
+        ]
+    },
+    {
+        "rowId": "24",
+        "displayName": "Attributable to Owners of the Company",
+        "type": "",
+        "seq": "22",
+        "hierarchy": [
+            "Profit and Loss",
+            "Net Profit After Tax, Minority Interest, Associate Companies",
+            "Attributable to Owners of the Company"
+        ]
+    },
+    {
+        "rowId": "25",
+        "displayName": "Attributable to Non-Controlling Interest",
+        "type": "",
+        "seq": "23",
+        "hierarchy": [
+            "Profit and Loss",
+            "Net Profit After Tax, Minority Interest, Associate Companies",
+            "Attributable to Non-Controlling Interest"
+        ]
+    },
+    {
+        "rowId": "26",
+        "displayName": "Other Comprehensive Income(OCI)",
+        "type": "BOLD",
+        "seq": "24",
+        "hierarchy": [
+            "Profit and Loss",
+            "Other Comprehensive Income(OCI)"
+        ]
+    },
+    {
+        "rowId": "28",
+        "displayName": "Attributable to Owners of the Company",
+        "type": "",
+        "seq": "25",
+        "hierarchy": [
+            "Profit and Loss",
+            "Other Comprehensive Income(OCI)",
+            "Attributable to Owners of the Company"
+        ]
+    },
+    {
+        "rowId": "29",
+        "displayName": "Attributable to Non-Controlling Interest",
+        "type": "",
+        "seq": "26",
+        "hierarchy": [
+            "Profit and Loss",
+            "Other Comprehensive Income(OCI)",
+            "Attributable to Non-Controlling Interest"
+        ]
+    },
+    {
+        "rowId": "30",
+        "displayName": "Total Comprehensive Income",
+        "type": "BOLD",
+        "seq": "27",
+        "hierarchy": [
+            "Profit and Loss",
+            "Total Comprehensive Income"
+        ]
+    },
+    {
+        "rowId": "32",
+        "displayName": "Attributable to Owners of the Company",
+        "type": "",
+        "seq": "28",
+        "hierarchy": [
+            "Profit and Loss",
+            "Total Comprehensive Income",
+            "Attributable to Owners of the Company"
+        ]
+    },
+    {
+        "rowId": "33",
+        "displayName": "Attributable to Non-Controlling Interest",
+        "type": "",
+        "seq": "29",
+        "hierarchy": [
+            "Profit and Loss",
+            "Total Comprehensive Income",
+            "Attributable to Non-Controlling Interest"
+        ]
+    },
+    {
+        "rowId": "",
+        "displayName": "BALANCE SHEET",
+        "type": "SECTION",
+        "seq": "31",
+        "hierarchy": [
+            "BALANCE SHEET"
+        ]
+    },
+    {
+        "rowId": "34",
+        "displayName": "Equity",
+        "type": "",
+        "seq": "32",
+        "hierarchy": [
+            "BALANCE SHEET",
+            "Equity"
+        ]
+    },
+    {
+        "rowId": "35",
+        "displayName": "Reserve & Surplus",
+        "type": "",
+        "seq": "33",
+        "hierarchy": [
+            "BALANCE SHEET",
+            "Reserve & Surplus"
+        ]
+    },
+    {
+        "rowId": "36",
+        "displayName": "Face Value",
+        "type": "",
+        "seq": "34",
+        "hierarchy": [
+            "BALANCE SHEET",
+            "Face Value"
+        ]
+    },
+    {
+        "rowId": "41",
+        "displayName": "Book Value (Unit Curr.)",
+        "type": "",
+        "seq": "35",
+        "hierarchy": [
+            "BALANCE SHEET",
+            "Book Value (Unit Curr.)"
+        ]
+    },
+    {
+        "rowId": "42",
+        "displayName": "Dividend Per Share(Rs.)",
+        "type": "",
+        "seq": "36",
+        "hierarchy": [
+            "BALANCE SHEET",
+            "Dividend Per Share(Rs.)"
+        ]
+    },
+    {
+        "rowId": "43",
+        "displayName": "Dividend (%)",
+        "type": "",
+        "seq": "37",
+        "hierarchy": [
+            "BALANCE SHEET",
+            "Dividend (%)"
+        ]
+    },
+    {
+        "rowId": "44",
+        "displayName": "No. of Employees",
+        "type": "",
+        "seq": "38",
+        "hierarchy": [
+            "BALANCE SHEET",
+            "No. of Employees"
+        ]
+    },
+    {
+        "rowId": "",
+        "displayName": "EPS :",
+        "type": "SECTION",
+        "seq": "40",
+        "hierarchy": [
+            "EPS :"
+        ]
+    },
+    {
+        "rowId": "37",
+        "displayName": "Basic EPS before Exceptional/Extraordinary Items",
+        "type": "",
+        "seq": "41",
+        "hierarchy": [
+            "EPS :",
+            "Basic EPS before Exceptional/Extraordinary Items"
+        ]
+    },
+    {
+        "rowId": "38",
+        "displayName": "Diluted EPS before Exceptional/Extraordinary Items",
+        "type": "",
+        "seq": "42",
+        "hierarchy": [
+            "EPS :",
+            "Diluted EPS before Exceptional/Extraordinary Items"
+        ]
+    },
+    {
+        "rowId": "39",
+        "displayName": "Basic EPS after Exceptional/Extraordinary Items",
+        "type": "",
+        "seq": "43",
+        "hierarchy": [
+            "EPS :",
+            "Basic EPS after Exceptional/Extraordinary Items"
+        ]
+    },
+    {
+        "rowId": "40",
+        "displayName": "Diluted EPS after Exceptional/Extraordinary Items",
+        "type": "",
+        "seq": "44",
+        "hierarchy": [
+            "EPS :",
+            "Diluted EPS after Exceptional/Extraordinary Items"
+        ]
+    },
+    {
+        "rowId": "",
+        "displayName": "RATIOS",
+        "type": "SECTION",
+        "seq": "46",
+        "hierarchy": [
+            "RATIOS"
+        ]
+    },
+    {
+        "rowId": "45",
+        "displayName": "Debt Equity Ratio",
+        "type": "",
+        "seq": "47",
+        "hierarchy": [
+            "RATIOS",
+            "Debt Equity Ratio"
+        ]
+    },
+    {
+        "rowId": "46",
+        "displayName": "Debt Service Coverage Ratio",
+        "type": "",
+        "seq": "48",
+        "hierarchy": [
+            "RATIOS",
+            "Debt Service Coverage Ratio"
+        ]
+    },
+    {
+        "rowId": "47",
+        "displayName": "Interest Service Coverage Ratio",
+        "type": "",
+        "seq": "49",
+        "hierarchy": [
+            "RATIOS",
+            "Interest Service Coverage Ratio"
+        ]
+    },
+    {
+        "rowId": "48",
+        "displayName": "Debenture Redemption Reserve(Rs CR)",
+        "type": "",
+        "seq": "50",
+        "hierarchy": [
+            "RATIOS",
+            "Debenture Redemption Reserve(Rs CR)"
+        ]
+    },
+    {
+        "rowId": "49",
+        "displayName": "Paid up Debt Capital(Rs CR)",
+        "type": "",
+        "seq": "51",
+        "hierarchy": [
+            "RATIOS",
+            "Paid up Debt Capital(Rs CR)"
+        ]
+    },
+    {
+        "rowId": "50",
+        "displayName": "Gross Non Performing Assets",
+        "type": "",
+        "seq": "52",
+        "hierarchy": [
+            "RATIOS",
+            "Gross Non Performing Assets"
+        ]
+    },
+    {
+        "rowId": "51",
+        "displayName": "Net Non Performing Assets",
+        "type": "",
+        "seq": "53",
+        "hierarchy": [
+            "RATIOS",
+            "Net Non Performing Assets"
+        ]
+    },
+    {
+        "rowId": "52",
+        "displayName": "Gross Non Performing Assets (%)",
+        "type": "",
+        "seq": "54",
+        "hierarchy": [
+            "RATIOS",
+            "Gross Non Performing Assets (%)"
+        ]
+    },
+    {
+        "rowId": "53",
+        "displayName": "Net Non Performing Assets( % )",
+        "type": "",
+        "seq": "55",
+        "hierarchy": [
+            "RATIOS",
+            "Net Non Performing Assets( % )"
+        ]
+    },
+    {
+        "rowId": "54",
+        "displayName": "Return on Assets(Annualised)",
+        "type": "",
+        "seq": "56",
+        "hierarchy": [
+            "RATIOS",
+            "Return on Assets(Annualised)"
+        ]
+    },
+    {
+        "rowId": "55",
+        "displayName": "Return on Assets(Non Annualised)",
+        "type": "",
+        "seq": "57",
+        "hierarchy": [
+            "RATIOS",
+            "Return on Assets(Non Annualised)"
+        ]
+    },
+    {
+        "rowId": "56",
+        "displayName": "Provision Coverage Ratio( % )",
+        "type": "",
+        "seq": "58",
+        "hierarchy": [
+            "RATIOS",
+            "Provision Coverage Ratio( % )"
+        ]
+    },
+    {
+        "rowId": "57",
+        "displayName": "Net Interest Margin( % )",
+        "type": "",
+        "seq": "59",
+        "hierarchy": [
+            "RATIOS",
+            "Net Interest Margin( % )"
+        ]
+    },
+    {
+        "rowId": "58",
+        "displayName": "Return on Equity( % )",
+        "type": "",
+        "seq": "60",
+        "hierarchy": [
+            "RATIOS",
+            "Return on Equity( % )"
+        ]
+    },
+    {
+        "rowId": "59",
+        "displayName": "Operating Expenses to Net Interest Income( % )",
+        "type": "",
+        "seq": "61",
+        "hierarchy": [
+            "RATIOS",
+            "Operating Expenses to Net Interest Income( % )"
+        ]
+    },
+    {
+        "rowId": "60",
+        "displayName": "Loans Spreads( % )",
+        "type": "",
+        "seq": "62",
+        "hierarchy": [
+            "RATIOS",
+            "Loans Spreads( % )"
+        ]
+    },
+    {
+        "rowId": "61",
+        "displayName": "Capital Adequacy Ratio",
+        "type": "",
+        "seq": "63",
+        "hierarchy": [
+            "RATIOS",
+            "Capital Adequacy Ratio"
+        ]
+    },
+    {
+        "rowId": "62",
+        "displayName": "Tier I Capital",
+        "type": "",
+        "seq": "64",
+        "hierarchy": [
+            "RATIOS",
+            "Capital Adequacy Ratio",
+            "Tier I Capital"
+        ]
+    },
+    {
+        "rowId": "63",
+        "displayName": "Tier II Capital",
+        "type": "",
+        "seq": "65",
+        "hierarchy": [
+            "RATIOS",
+            "Capital Adequacy Ratio",
+            "Tier II Capital"
+        ]
+    },
+    {
+        "rowId": "64",
+        "displayName": "Cost to Income Ratio",
+        "type": "",
+        "seq": "66",
+        "hierarchy": [
+            "RATIOS",
+            "Cost to Income Ratio"
+        ]
+    },
+    {
+        "rowId": "65",
+        "displayName": "Loan Loss Provision Ratio",
+        "type": "",
+        "seq": "67",
+        "hierarchy": [
+            "RATIOS",
+            "Loan Loss Provision Ratio"
+        ]
+    },
+    {
+        "rowId": "",
+        "displayName": "DEPOSITS AND ADVANCES",
+        "type": "SECTION",
+        "seq": "69",
+        "hierarchy": [
+            "DEPOSITS AND ADVANCES"
+        ]
+    },
+    {
+        "rowId": "66",
+        "displayName": "Loan Book",
+        "type": "",
+        "seq": "70",
+        "hierarchy": [
+            "DEPOSITS AND ADVANCES",
+            "Loan Book"
+        ]
+    },
+    {
+        "rowId": "67",
+        "displayName": "Loans Disbursed",
+        "type": "",
+        "seq": "71",
+        "hierarchy": [
+            "DEPOSITS AND ADVANCES",
+            "Loans Disbursed"
+        ]
+    },
+    {
+        "rowId": "68",
+        "displayName": "Loans Sanctioned / Approved",
+        "type": "",
+        "seq": "72",
+        "hierarchy": [
+            "DEPOSITS AND ADVANCES",
+            "Loans Sanctioned / Approved"
+        ]
+    },
+    {
+        "rowId": "69",
+        "displayName": "Net Interest Income",
+        "type": "",
+        "seq": "73",
+        "hierarchy": [
+            "DEPOSITS AND ADVANCES",
+            "Net Interest Income"
+        ]
+    },
+    {
+        "rowId": "70",
+        "displayName": "Operating Expenses",
+        "type": "",
+        "seq": "74",
+        "hierarchy": [
+            "DEPOSITS AND ADVANCES",
+            "Operating Expenses"
+        ]
+    },
+    {
+        "rowId": "71",
+        "displayName": "Loan Losses & Provision",
+        "type": "",
+        "seq": "75",
+        "hierarchy": [
+            "DEPOSITS AND ADVANCES",
+            "Loan Losses & Provision"
+        ]
+    },
+    {
+        "rowId": "72",
+        "displayName": "Assets Under Management",
+        "type": "",
+        "seq": "76",
+        "hierarchy": [
+            "DEPOSITS AND ADVANCES",
+            "Assets Under Management"
+        ]
+    }
+]

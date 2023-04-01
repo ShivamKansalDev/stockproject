@@ -1,0 +1,1264 @@
+[
+        {
+                "rowId": "",
+                "displayName": "POLICYHOLDER'S ACCOUNT (TECHNICAL)",
+                "type": "Section",
+                "seq": "1",
+                "hierarchy": [
+                        "POLICYHOLDER'S ACCOUNT (TECHNICAL)"
+                ]
+        },
+        {
+                "rowId": "8",
+                "displayName": "Premium Earned (Net)",
+                "type": "",
+                "seq": "2",
+                "hierarchy": [
+                        "Premium Earned (Net)"
+                ]
+        },
+        {
+                "rowId": "4",
+                "displayName": "Gross Premiums",
+                "type": "",
+                "seq": "3",
+                "hierarchy": [
+                        "Premium Earned (Net)",
+                        "Gross Premiums"
+                ]
+        },
+        {
+                "rowId": "5",
+                "displayName": "Reinsurance Accepted",
+                "type": "",
+                "seq": "4",
+                "hierarchy": [
+                        "Premium Earned (Net)",
+                        "Reinsurance Accepted"
+                ]
+        },
+        {
+                "rowId": "6",
+                "displayName": "Premium Ceded Reinsurers",
+                "type": "",
+                "seq": "5",
+                "hierarchy": [
+                        "Premium Earned (Net)",
+                        "Premium Ceded Reinsurers"
+                ]
+        },
+        {
+                "rowId": "7",
+                "displayName": "Adjustment for Change in Reserve for Unexpired Risks",
+                "type": "",
+                "seq": "6",
+                "hierarchy": [
+                        "Premium Earned (Net)",
+                        "Adjustment for Change in Reserve for Unexpired Risks"
+                ]
+        },
+        {
+                "rowId": "9",
+                "displayName": "Income From Investments",
+                "type": "",
+                "seq": "7",
+                "hierarchy": [
+                        "Income From Investments"
+                ]
+        },
+        {
+                "rowId": "10",
+                "displayName": "Interest, Dividends & Rent",
+                "type": "",
+                "seq": "8",
+                "hierarchy": [
+                        "Income From Investments",
+                        "Interest, Dividends & Rent"
+                ]
+        },
+        {
+                "rowId": "11",
+                "displayName": "Profit on Sale / Redemption of Investments",
+                "type": "",
+                "seq": "9",
+                "hierarchy": [
+                        "Income From Investments",
+                        "Profit on Sale / Redemption of Investments"
+                ]
+        },
+        {
+                "rowId": "12",
+                "displayName": "(Loss on Sale / Redemption of Investments)",
+                "type": "",
+                "seq": "10",
+                "hierarchy": [
+                        "Income From Investments",
+                        "(Loss on Sale / Redemption of Investments)"
+                ]
+        },
+        {
+                "rowId": "13",
+                "displayName": "Profit on Sale of Investments (Net)",
+                "type": "",
+                "seq": "11",
+                "hierarchy": [
+                        "Income From Investments",
+                        "Profit on Sale of Investments (Net)"
+                ]
+        },
+        {
+                "rowId": "14",
+                "displayName": "Transfer/Gain on Revaluation",
+                "type": "",
+                "seq": "12",
+                "hierarchy": [
+                        "Income From Investments",
+                        "Transfer/Gain on Revaluation"
+                ]
+        },
+        {
+                "rowId": "15",
+                "displayName": "Change in Fair Value",
+                "type": "",
+                "seq": "13",
+                "hierarchy": [
+                        "Income From Investments",
+                        "Change in Fair Value"
+                ]
+        },
+        {
+                "rowId": "16",
+                "displayName": "Net Accretion of Discount/(Amortisation of Premium)",
+                "type": "",
+                "seq": "14",
+                "hierarchy": [
+                        "Income From Investments",
+                        "Net Accretion of Discount/(Amortisation of Premium)"
+                ]
+        },
+        {
+                "rowId": "17",
+                "displayName": "Unrealised Gain",
+                "type": "",
+                "seq": "15",
+                "hierarchy": [
+                        "Income From Investments",
+                        "Unrealised Gain"
+                ]
+        },
+        {
+                "rowId": "18",
+                "displayName": "Net Realised Gain and Loss",
+                "type": "",
+                "seq": "16",
+                "hierarchy": [
+                        "Income From Investments",
+                        "Net Realised Gain and Loss"
+                ]
+        },
+        {
+                "rowId": "19",
+                "displayName": "Foreign Exchange Gain / Loss",
+                "type": "",
+                "seq": "17",
+                "hierarchy": [
+                        "Income From Investments",
+                        "Foreign Exchange Gain / Loss"
+                ]
+        },
+        {
+                "rowId": "20",
+                "displayName": "Appropriation / Expropriation Adjustment Account",
+                "type": "",
+                "seq": "18",
+                "hierarchy": [
+                        "Income From Investments",
+                        "Appropriation / Expropriation Adjustment Account"
+                ]
+        },
+        {
+                "rowId": "21",
+                "displayName": "Others",
+                "type": "",
+                "seq": "19",
+                "hierarchy": [
+                        "Income From Investments",
+                        "Others"
+                ]
+        },
+        {
+                "rowId": "22",
+                "displayName": "Other Income",
+                "type": "",
+                "seq": "20",
+                "hierarchy": [
+                        "Other Income"
+                ]
+        },
+        {
+                "rowId": "23",
+                "displayName": "Interest on Over Due Premium",
+                "type": "",
+                "seq": "21",
+                "hierarchy": [
+                        "Other Income",
+                        "Interest on Over Due Premium"
+                ]
+        },
+        {
+                "rowId": "24",
+                "displayName": "Interest on Policy Loan",
+                "type": "",
+                "seq": "22",
+                "hierarchy": [
+                        "Other Income",
+                        "Interest on Policy Loan"
+                ]
+        },
+        {
+                "rowId": "25",
+                "displayName": "Fees and Charges",
+                "type": "",
+                "seq": "23",
+                "hierarchy": [
+                        "Other Income",
+                        "Fees and Charges"
+                ]
+        },
+        {
+                "rowId": "26",
+                "displayName": "Profit on sale/disposal of fixed assets",
+                "type": "",
+                "seq": "24",
+                "hierarchy": [
+                        "Other Income",
+                        "Profit on sale/disposal of fixed assets"
+                ]
+        },
+        {
+                "rowId": "27",
+                "displayName": "Foreign Exchange Gains/Loss (Net)",
+                "type": "",
+                "seq": "25",
+                "hierarchy": [
+                        "Other Income",
+                        "Foreign Exchange Gains/Loss (Net)"
+                ]
+        },
+        {
+                "rowId": "28",
+                "displayName": "Linked Income",
+                "type": "",
+                "seq": "26",
+                "hierarchy": [
+                        "Other Income",
+                        "Linked Income"
+                ]
+        },
+        {
+                "rowId": "29",
+                "displayName": "Investment income from Pool",
+                "type": "",
+                "seq": "27",
+                "hierarchy": [
+                        "Other Income",
+                        "Investment income from Pool"
+                ]
+        },
+        {
+                "rowId": "30",
+                "displayName": "Miscellaneous Income (Technical)",
+                "type": "",
+                "seq": "28",
+                "hierarchy": [
+                        "Other Income",
+                        "Miscellaneous Income (Technical)"
+                ]
+        },
+        {
+                "rowId": "31",
+                "displayName": "Transfer of Fund / Contribution from the Shareholders Account",
+                "type": "",
+                "seq": "29",
+                "hierarchy": [
+                        "Other Income",
+                        "Transfer of Fund / Contribution from the Shareholders Account"
+                ]
+        },
+        {
+                "rowId": "32",
+                "displayName": "Income on Unclaimed amount of Policyholders",
+                "type": "",
+                "seq": "30",
+                "hierarchy": [
+                        "Other Income",
+                        "Income on Unclaimed amount of Policyholders"
+                ]
+        },
+        {
+                "rowId": "2",
+                "displayName": "Total Income from Insurance Operations",
+                "type": "BOLD",
+                "seq": "31",
+                "hierarchy": [
+                        "Total Income from Insurance Operations"
+                ]
+        },
+        {
+                "rowId": "33",
+                "displayName": "Commission & Brokerage (net)",
+                "type": "",
+                "seq": "32",
+                "hierarchy": [
+                        "Commission & Brokerage (net)"
+                ]
+        },
+        {
+                "rowId": "34",
+                "displayName": "Incurred Claims",
+                "type": "",
+                "seq": "33",
+                "hierarchy": [
+                        "Incurred Claims"
+                ]
+        },
+        {
+                "rowId": "35",
+                "displayName": "Claims Benefits Paid",
+                "type": "",
+                "seq": "34",
+                "hierarchy": [
+                        "Incurred Claims",
+                        "Claims Benefits Paid"
+                ]
+        },
+        {
+                "rowId": "36",
+                "displayName": "Premium Deficiency",
+                "type": "",
+                "seq": "35",
+                "hierarchy": [
+                        "Incurred Claims",
+                        "Premium Deficiency"
+                ]
+        },
+        {
+                "rowId": "37",
+                "displayName": "Interim Bonuses Paid",
+                "type": "",
+                "seq": "36",
+                "hierarchy": [
+                        "Incurred Claims",
+                        "Interim Bonuses Paid"
+                ]
+        },
+        {
+                "rowId": "38",
+                "displayName": "Terminal Bonuses Paid",
+                "type": "",
+                "seq": "37",
+                "hierarchy": [
+                        "Incurred Claims",
+                        "Terminal Bonuses Paid"
+                ]
+        },
+        {
+                "rowId": "39",
+                "displayName": "Transfer to Funds",
+                "type": "",
+                "seq": "38",
+                "hierarchy": [
+                        "Incurred Claims",
+                        "Transfer to Funds"
+                ]
+        },
+        {
+                "rowId": "40",
+                "displayName": "Changes in Valuation of Policies Liabilities",
+                "type": "",
+                "seq": "39",
+                "hierarchy": [
+                        "Incurred Claims",
+                        "Changes in Valuation of Policies Liabilities"
+                ]
+        },
+        {
+                "rowId": "41",
+                "displayName": "Changes in Gross Non-Unit/Mathematical Reserves",
+                "type": "",
+                "seq": "40",
+                "hierarchy": [
+                        "Incurred Claims",
+                        "Changes in Valuation of Policies Liabilities",
+                        "Changes in Gross Non-Unit/Mathematical Reserves"
+                ]
+        },
+        {
+                "rowId": "42",
+                "displayName": "Changes in Amount Ceded in Reinsurance",
+                "type": "",
+                "seq": "41",
+                "hierarchy": [
+                        "Incurred Claims",
+                        "Changes in Valuation of Policies Liabilities",
+                        "Changes in Amount Ceded in Reinsurance"
+                ]
+        },
+        {
+                "rowId": "43",
+                "displayName": "Changes in Amount Accepted in Reinsurance",
+                "type": "",
+                "seq": "42",
+                "hierarchy": [
+                        "Incurred Claims",
+                        "Changes in Valuation of Policies Liabilities",
+                        "Changes in Amount Accepted in Reinsurance"
+                ]
+        },
+        {
+                "rowId": "44",
+                "displayName": "Fund / Unit Reserve",
+                "type": "",
+                "seq": "43",
+                "hierarchy": [
+                        "Incurred Claims",
+                        "Changes in Valuation of Policies Liabilities",
+                        "Fund / Unit Reserve"
+                ]
+        },
+        {
+                "rowId": "45",
+                "displayName": "Funds for Discontinued Policies",
+                "type": "",
+                "seq": "44",
+                "hierarchy": [
+                        "Incurred Claims",
+                        "Changes in Valuation of Policies Liabilities",
+                        "Funds for Discontinued Policies"
+                ]
+        },
+        {
+                "rowId": "46",
+                "displayName": "Reserve for Unexpired Risks",
+                "type": "",
+                "seq": "45",
+                "hierarchy": [
+                        "Incurred Claims",
+                        "Changes in Valuation of Policies Liabilities",
+                        "Reserve for Unexpired Risks"
+                ]
+        },
+        {
+                "rowId": "47",
+                "displayName": "Changes in Catastrophe Reserve",
+                "type": "",
+                "seq": "46",
+                "hierarchy": [
+                        "Incurred Claims",
+                        "Changes in Valuation of Policies Liabilities",
+                        "Changes in Catastrophe Reserve"
+                ]
+        },
+        {
+                "rowId": "48",
+                "displayName": "Change in Outstanding Claims (Incl. IBNR/IBNER)",
+                "type": "",
+                "seq": "47",
+                "hierarchy": [
+                        "Incurred Claims",
+                        "Changes in Valuation of Policies Liabilities",
+                        "Change in Outstanding Claims (Incl. IBNR/IBNER)"
+                ]
+        },
+        {
+                "rowId": "49",
+                "displayName": "Changes in Actuarial Liabilities",
+                "type": "",
+                "seq": "48",
+                "hierarchy": [
+                        "Incurred Claims",
+                        "Changes in Valuation of Policies Liabilities",
+                        "Changes in Actuarial Liabilities"
+                ]
+        },
+        {
+                "rowId": "SUM(50,51,52,53,54,55,56,57)",
+                "displayName": "Other Operating Expenses",
+                "type": "",
+                "seq": "49",
+                "hierarchy": [
+                        "Other Operating Expenses"
+                ]
+        },
+        {
+                "rowId": "50",
+                "displayName": "Other Insurance Operations",
+                "type": "",
+                "seq": "50",
+                "hierarchy": [
+                        "Other Operating Expenses",
+                        "Other Insurance Operations"
+                ]
+        },
+        {
+                "rowId": "51",
+                "displayName": "Operating Expenses related to Insurance Business",
+                "type": "",
+                "seq": "51",
+                "hierarchy": [
+                        "Other Operating Expenses",
+                        "Operating Expenses related to Insurance Business"
+                ]
+        },
+        {
+                "rowId": "52",
+                "displayName": "Other Operating Expenses to Insurance",
+                "type": "",
+                "seq": "52",
+                "hierarchy": [
+                        "Other Operating Expenses",
+                        "Other Operating Expenses to Insurance"
+                ]
+        },
+        {
+                "rowId": "53",
+                "displayName": "Loss from Investments",
+                "type": "",
+                "seq": "53",
+                "hierarchy": [
+                        "Other Operating Expenses",
+                        "Loss from Investments"
+                ]
+        },
+        {
+                "rowId": "54",
+                "displayName": "Loss from Sale Of Fixed Assets",
+                "type": "",
+                "seq": "54",
+                "hierarchy": [
+                        "Other Operating Expenses",
+                        "Loss from Sale Of Fixed Assets"
+                ]
+        },
+        {
+                "rowId": "55",
+                "displayName": "Changes in Fair Value Loss",
+                "type": "",
+                "seq": "55",
+                "hierarchy": [
+                        "Other Operating Expenses",
+                        "Changes in Fair Value Loss"
+                ]
+        },
+        {
+                "rowId": "56",
+                "displayName": "Foreign Exchange Loss",
+                "type": "",
+                "seq": "56",
+                "hierarchy": [
+                        "Other Operating Expenses",
+                        "Foreign Exchange Loss"
+                ]
+        },
+        {
+                "rowId": "57",
+                "displayName": "Other Operating Expenses - Insurance",
+                "type": "",
+                "seq": "57",
+                "hierarchy": [
+                        "Other Operating Expenses",
+                        "Other Operating Expenses - Insurance"
+                ]
+        },
+        {
+                "rowId": "58",
+                "displayName": "Total Expenses From Insurance Operations",
+                "type": "BOLD",
+                "seq": "58",
+                "hierarchy": [
+                        "Total Expenses From Insurance Operations"
+                ]
+        },
+        {
+                "rowId": "SUM(60,61,62,63,64,65,66,67)",
+                "displayName": "Provisions",
+                "type": "",
+                "seq": "59",
+                "hierarchy": [
+                        "Provisions"
+                ]
+        },
+        {
+                "rowId": "60",
+                "displayName": "Provisions for Doubtful Debts and Bad Debts Written Off",
+                "type": "",
+                "seq": "60",
+                "hierarchy": [
+                        "Provisions",
+                        "Provisions for Doubtful Debts and Bad Debts Written Off"
+                ]
+        },
+        {
+                "rowId": "61",
+                "displayName": "Provisions for diminution In value of investments",
+                "type": "",
+                "seq": "61",
+                "hierarchy": [
+                        "Provisions",
+                        "Provisions for diminution In value of investments "
+                ]
+        },
+        {
+                "rowId": "62",
+                "displayName": "Provisions for standard assets",
+                "type": "",
+                "seq": "62",
+                "hierarchy": [
+                        "Provisions",
+                        "Provisions for standard assets"
+                ]
+        },
+        {
+                "rowId": "63",
+                "displayName": "Bad Debts Written Off",
+                "type": "",
+                "seq": "63",
+                "hierarchy": [
+                        "Provisions",
+                        "Bad Debts Written Off"
+                ]
+        },
+        {
+                "rowId": "64",
+                "displayName": "Provisions for goods and service tax",
+                "type": "",
+                "seq": "64",
+                "hierarchy": [
+                        "Provisions",
+                        "Provisions for goods and service tax"
+                ]
+        },
+        {
+                "rowId": "65",
+                "displayName": "Provisions for tax",
+                "type": "",
+                "seq": "65",
+                "hierarchy": [
+                        "Provisions",
+                        "Provisions for tax"
+                ]
+        },
+        {
+                "rowId": "66",
+                "displayName": "Deferred Tax",
+                "type": "",
+                "seq": "66",
+                "hierarchy": [
+                        "Provisions",
+                        "Deferred Tax"
+                ]
+        },
+        {
+                "rowId": "67",
+                "displayName": "Other Provisions",
+                "type": "",
+                "seq": "67",
+                "hierarchy": [
+                        "Provisions",
+                        "Other Provisions"
+                ]
+        },
+        {
+                "rowId": "68",
+                "displayName": "Total Expenses Including Provisions",
+                "type": "BOLD",
+                "seq": "68",
+                "hierarchy": [
+                        "Total Expenses Including Provisions"
+                ]
+        },
+        {
+                "rowId": "69",
+                "displayName": "Operating Profit/Loss",
+                "type": "",
+                "seq": "69",
+                "hierarchy": [
+                        "Operating Profit/Loss"
+                ]
+        },
+        {
+                "rowId": "70",
+                "displayName": "(a) Fire Insurance",
+                "type": "",
+                "seq": "70",
+                "hierarchy": [
+                        "Operating Profit/Loss",
+                        "(a) Fire Insurance"
+                ]
+        },
+        {
+                "rowId": "71",
+                "displayName": "(b) Marine Insurance",
+                "type": "",
+                "seq": "71",
+                "hierarchy": [
+                        "Operating Profit/Loss",
+                        "(b) Marine Insurance"
+                ]
+        },
+        {
+                "rowId": "72",
+                "displayName": "(c) Miscellaneous Insurance",
+                "type": "",
+                "seq": "72",
+                "hierarchy": [
+                        "Operating Profit/Loss",
+                        "(c) Miscellaneous Insurance"
+                ]
+        },
+        {
+                "rowId": "73",
+                "displayName": "(d) Life Insurance",
+                "type": "",
+                "seq": "73",
+                "hierarchy": [
+                        "Operating Profit/Loss",
+                        "(d) Life Insurance"
+                ]
+        },
+        {
+                "rowId": "",
+                "displayName": "EMPTY",
+                "type": "",
+                "seq": "74"
+        },
+        {
+                "rowId": "",
+                "displayName": "SHAREHOLDER'S ACCOUNT (NON-TECHNICAL)",
+                "type": "SECTION",
+                "seq": "75",
+                "hierarchy": [
+                        "SHAREHOLDER'S ACCOUNT (NON-TECHNICAL)"
+                ]
+        },
+        {
+                "rowId": "SUM(89,90)",
+                "displayName": "Income in Shareholder's Account",
+                "type": "",
+                "seq": "76",
+                "hierarchy": [
+                        "Income in Shareholder's Account"
+                ]
+        },
+        {
+                "rowId": "89",
+                "displayName": " (a) Transfer from Policyholders Fund / Account",
+                "type": "",
+                "seq": "77",
+                "hierarchy": [
+                        "Income in Shareholder's Account",
+                        "(a) Transfer from Policyholders Fund / Account"
+                ]
+        },
+        {
+                "rowId": "90",
+                "displayName": "(b) Net Reinsurance Premium",
+                "type": "",
+                "seq": "78",
+                "hierarchy": [
+                        "Income in Shareholder's Account",
+                        "(b) Net Reinsurance Premium"
+                ]
+        },
+        {
+                "rowId": "91",
+                "displayName": "Total Income Under Shareholders account",
+                "type": "",
+                "seq": "79",
+                "hierarchy": [
+                        "Total Income Under Shareholders account"
+                ]
+        },
+        {
+                "rowId": "92",
+                "displayName": "Reinsurance Claims Incurred",
+                "type": "",
+                "seq": "80",
+                "hierarchy": [
+                        "Total Income Under Shareholders account",
+                        "Reinsurance Claims Incurred"
+                ]
+        },
+        {
+                "rowId": "93",
+                "displayName": "Expenses relating to Reinsurance Business",
+                "type": "",
+                "seq": "81",
+                "hierarchy": [
+                        "Total Income Under Shareholders account",
+                        "Expenses relating to Reinsurance Business"
+                ]
+        },
+        {
+                "rowId": "94",
+                "displayName": "Transfer of Fund to Policyholders A/c",
+                "type": "",
+                "seq": "82",
+                "hierarchy": [
+                        "Total Income Under Shareholders account",
+                        "Transfer of Fund to Policyholders A/c"
+                ]
+        },
+        {
+                "rowId": "95",
+                "displayName": "Income from Investments",
+                "type": "",
+                "seq": "83",
+                "hierarchy": [
+                        "Total Income Under Shareholders account",
+                        "Income from Investments"
+                ]
+        },
+        {
+                "rowId": "96",
+                "displayName": "Interest, Dividend & Rent - Gross",
+                "type": "",
+                "seq": "84",
+                "hierarchy": [
+                        "Total Income Under Shareholders account",
+                        "Income from Investments",
+                        "Interest, Dividend & Rent - Gross"
+                ]
+        },
+        {
+                "rowId": "97",
+                "displayName": "Profit on Sale of Investments / Redemption of Investments",
+                "type": "",
+                "seq": "85",
+                "hierarchy": [
+                        "Total Income Under Shareholders account",
+                        "Income from Investments",
+                        "Profit on Sale of Investments / Redemption of Investments"
+                ]
+        },
+        {
+                "rowId": "98",
+                "displayName": "Less: Loss on sale of Investments / Redemption of Investments",
+                "type": "",
+                "seq": "86",
+                "hierarchy": [
+                        "Total Income Under Shareholders account",
+                        "Income from Investments",
+                        "Less: Loss on sale of Investments / Redemption of Investments"
+                ]
+        },
+        {
+                "rowId": "99",
+                "displayName": "Amortisation of (premium) /discount on investments",
+                "type": "",
+                "seq": "87",
+                "hierarchy": [
+                        "Total Income Under Shareholders account",
+                        "Income from Investments",
+                        "Amortisation of (premium) /discount on investments"
+                ]
+        },
+        {
+                "rowId": "100",
+                "displayName": "Other Income",
+                "type": "",
+                "seq": "88",
+                "hierarchy": [
+                        "Total Income Under Shareholders account",
+                        "Other Income"
+                ]
+        },
+        {
+                "rowId": "101",
+                "displayName": "Forex Gain/( Loss)",
+                "type": "",
+                "seq": "89",
+                "hierarchy": [
+                        "Total Income Under Shareholders account",
+                        "Other Income",
+                        "Forex Gain/( Loss)"
+                ]
+        },
+        {
+                "rowId": "102",
+                "displayName": "Profit on sale of Assets (Net)",
+                "type": "",
+                "seq": "90",
+                "hierarchy": [
+                        "Total Income Under Shareholders account",
+                        "Other Income",
+                        "Profit on sale of Assets (Net)"
+                ]
+        },
+        {
+                "rowId": "103",
+                "displayName": "Sundry Balances Written Back (Net)",
+                "type": "",
+                "seq": "91",
+                "hierarchy": [
+                        "Total Income Under Shareholders account",
+                        "Other Income",
+                        "Sundry Balances Written Back (Net)"
+                ]
+        },
+        {
+                "rowId": "104",
+                "displayName": "Interest on Income-tax Refund",
+                "type": "",
+                "seq": "92",
+                "hierarchy": [
+                        "Total Income Under Shareholders account",
+                        "Other Income",
+                        "Interest on Income-tax Refund"
+                ]
+        },
+        {
+                "rowId": "105",
+                "displayName": "Motor Pool Service Charges",
+                "type": "",
+                "seq": "93",
+                "hierarchy": [
+                        "Total Income Under Shareholders account",
+                        "Other Income",
+                        "Motor Pool Service Charges"
+                ]
+        },
+        {
+                "rowId": "106",
+                "displayName": "Miscellaneous Income",
+                "type": "",
+                "seq": "94",
+                "hierarchy": [
+                        "Total Income Under Shareholders account",
+                        "Other Income",
+                        "Miscellaneous Income"
+                ]
+        },
+        {
+                "rowId": "88",
+                "displayName": "Total Income in Shareholders Account",
+                "type": "BOLD",
+                "seq": "95",
+                "hierarchy": [
+                        "Total Income in Shareholders Account"
+                ]
+        },
+        {
+                "rowId": "107",
+                "displayName": "Provision for Doubtful Loans & Investment",
+                "type": "",
+                "seq": "96",
+                "hierarchy": [
+                        "Provision for Doubtful Loans & Investment"
+                ]
+        },
+        {
+                "rowId": "108",
+                "displayName": "Provision/(written off ) for Doubtful Debts",
+                "type": "",
+                "seq": "97",
+                "hierarchy": [
+                        "Provision/(written off ) for Doubtful Debts"
+                ]
+        },
+        {
+                "rowId": "109",
+                "displayName": "Diminution in the value of investments written off",
+                "type": "",
+                "seq": "98",
+                "hierarchy": [
+                        "Diminution in the value of investments written off"
+                ]
+        },
+        {
+                "rowId": "110",
+                "displayName": "Other Expenses",
+                "type": "",
+                "seq": "99",
+                "hierarchy": [
+                        "Other Expenses"
+                ]
+        },
+        {
+                "rowId": "111",
+                "displayName": "Expenses relating to Investments and Financial Costs",
+                "type": "",
+                "seq": "100",
+                "hierarchy": [
+                        "Expenses relating to Investments and Financial Costs"
+                ]
+        },
+        {
+                "rowId": "112",
+                "displayName": "Expenses other than those directly related to the insurance business",
+                "type": "",
+                "seq": "101",
+                "hierarchy": [
+                        "Expenses other than those directly related to the insurance business"
+                ]
+        },
+        {
+                "rowId": "113",
+                "displayName": "Forex Loss/(Gain)",
+                "type": "",
+                "seq": "102",
+                "hierarchy": [
+                        "Forex Loss/(Gain)"
+                ]
+        },
+        {
+                "rowId": "114",
+                "displayName": "IPO Expenses",
+                "type": "",
+                "seq": "103",
+                "hierarchy": [
+                        "IPO Expenses"
+                ]
+        },
+        {
+                "rowId": "115",
+                "displayName": "Provisions for doubtful debts and bad debts written off",
+                "type": "",
+                "seq": "104",
+                "hierarchy": [
+                        "Provisions for doubtful debts and bad debts written off"
+                ]
+        },
+        {
+                "rowId": "116",
+                "displayName": "Provisions for diminution In value of investments",
+                "type": "",
+                "seq": "105",
+                "hierarchy": [
+                        "Provisions for diminution In value of investments"
+                ]
+        },
+        {
+                "rowId": "117",
+                "displayName": "Provisions for standard assets",
+                "type": "",
+                "seq": "106",
+                "hierarchy": [
+                        "Provisions for standard assets"
+                ]
+        },
+        {
+                "rowId": "118",
+                "displayName": "Bad Debts Written Off",
+                "type": "",
+                "seq": "107",
+                "hierarchy": [
+                        "Bad Debts Written Off"
+                ]
+        },
+        {
+                "rowId": "119",
+                "displayName": "Other Provisions",
+                "type": "",
+                "seq": "108",
+                "hierarchy": [
+                        "Other Provisions"
+                ]
+        },
+        {
+                "rowId": "120",
+                "displayName": "Contribution to the Policyholders Fund / Account",
+                "type": "",
+                "seq": "109",
+                "hierarchy": [
+                        "Contribution to the Policyholders Fund / Account"
+                ]
+        },
+        {
+                "rowId": "SUM(107,108,109,110,112,113,114,115,116,117,118,119,120)",
+                "displayName": "Total Expenses",
+                "type": "BOLD",
+                "seq": "110",
+                "hierarchy": [
+                        "Total Expenses"
+                ]
+        },
+        {
+                "rowId": "121",
+                "displayName": "Profit/Loss before Extraordinary items",
+                "type": "BOLD",
+                "seq": "111",
+                "hierarchy": [
+                        "Profit/Loss before Extraordinary items"
+                ]
+        },
+        {
+                "rowId": "122",
+                "displayName": "Exceptional Items Before Tax",
+                "type": "",
+                "seq": "112",
+                "hierarchy": [
+                        "Exceptional Items Before Tax"
+                ]
+        },
+        {
+                "rowId": "123",
+                "displayName": "Profit Before Extraordinary Items and Tax",
+                "type": "BOLD",
+                "seq": "113",
+                "hierarchy": [
+                        "Profit Before Extraordinary Items and Tax"
+                ]
+        },
+        {
+                "rowId": "124",
+                "displayName": "Other Adjustments Before Tax",
+                "type": "",
+                "seq": "114",
+                "hierarchy": [
+                        "Other Adjustments Before Tax"
+                ]
+        },
+        {
+                "rowId": "125",
+                "displayName": "Extraordinary Items before tax",
+                "type": "",
+                "seq": "115",
+                "hierarchy": [
+                        "Extraordinary Items before tax"
+                ]
+        },
+        {
+                "rowId": "126",
+                "displayName": "Profit Before Tax (PBT)",
+                "type": "BOLD",
+                "seq": "116",
+                "hierarchy": [
+                        "Profit Before Tax (PBT)"
+                ]
+        },
+        {
+                "rowId": "127",
+                "displayName": "Taxation",
+                "type": "",
+                "seq": "117",
+                "hierarchy": [
+                        "Taxation"
+                ]
+        },
+        {
+                "rowId": "128",
+                "displayName": " - Current Tax",
+                "type": "",
+                "seq": "118",
+                "hierarchy": [
+                        "Taxation",
+                        " - Current Tax"
+                ]
+        },
+        {
+                "rowId": "129",
+                "displayName": " - Deferred Tax",
+                "type": "",
+                "seq": "119",
+                "hierarchy": [
+                        "Taxation",
+                        " - Deferred Tax"
+                ]
+        },
+        {
+                "rowId": "130",
+                "displayName": " - MAT Credit",
+                "type": "",
+                "seq": "120",
+                "hierarchy": [
+                        "Taxation",
+                        " - MAT Credit"
+                ]
+        },
+        {
+                "rowId": "131",
+                "displayName": " - Fringe Benefit Tax",
+                "type": "",
+                "seq": "121",
+                "hierarchy": [
+                        "Taxation",
+                        " - Fringe Benefit Tax"
+                ]
+        },
+        {
+                "rowId": "132",
+                "displayName": " - Provision for Tax in respect of earlier years",
+                "type": "",
+                "seq": "122",
+                "hierarchy": [
+                        "Taxation",
+                        " - Provision for Tax in respect of earlier years"
+                ]
+        },
+        {
+                "rowId": "133",
+                "displayName": " - Provision for Wealth Tax",
+                "type": "",
+                "seq": "123",
+                "hierarchy": [
+                        "Taxation",
+                        " - Provision for Wealth Tax"
+                ]
+        },
+        {
+                "rowId": "134",
+                "displayName": " - Other Tax",
+                "type": "",
+                "seq": "124",
+                "hierarchy": [
+                        "Taxation",
+                        " - Other Tax"
+                ]
+        },
+        {
+                "rowId": "135",
+                "displayName": "Profit After Tax (PAT)",
+                "type": "BOLD",
+                "seq": "125",
+                "hierarchy": [
+                        "Profit After Tax (PAT)"
+                ]
+        },
+        {
+                "rowId": "143",
+                "displayName": "Profit Attributable to Ordinary Shareholders",
+                "type": "",
+                "seq": "126",
+                "hierarchy": [
+                        "Profit Attributable to Ordinary Shareholders"
+                ]
+        },
+        {
+                "rowId": "151",
+                "displayName": "Earning Per Share - Basic",
+                "type": "",
+                "seq": "127",
+                "hierarchy": [
+                        "Earning Per Share - Basic"
+                ]
+        },
+        {
+                "rowId": "152",
+                "displayName": "Earning Per Share - Diluted",
+                "type": "",
+                "seq": "128",
+                "hierarchy": [
+                        "Earning Per Share - Diluted"
+                ]
+        },
+        {
+                "rowId": "148",
+                "displayName": "Dividend Per Share",
+                "type": "",
+                "seq": "129",
+                "hierarchy": [
+                        "Dividend Per Share"
+                ]
+        }
+]

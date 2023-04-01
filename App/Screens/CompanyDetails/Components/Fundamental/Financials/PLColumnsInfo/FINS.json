@@ -1,0 +1,326 @@
+[{
+        "rowId": "1",
+        "displayName": "Revenue From Operations",
+        "type": "",
+        "seq": "1",
+        "hierarchy": ["Revenue From Operations"]
+    }, {
+        "rowId": "2",
+        "displayName": "Interest Income",
+        "type": "",
+        "seq": "2",
+        "hierarchy": ["Revenue From Operations", "Interest Income"]
+    }, {
+        "rowId": "3",
+        "displayName": "Dividend Income",
+        "type": "",
+        "seq": "3",
+        "hierarchy": ["Revenue From Operations", "Dividend Income"]
+    }, {
+        "rowId": "4",
+        "displayName": "Rent Income",
+        "type": "",
+        "seq": "4",
+        "hierarchy": ["Revenue From Operations", "Rent Income"]
+    }, {
+        "rowId": "5",
+        "displayName": "Income from Lease and Hire",
+        "type": "",
+        "seq": "5",
+        "hierarchy": ["Revenue From Operations", "Income from Lease and Hire"]
+    }, {
+        "rowId": "6",
+        "displayName": "Gain in Fair Value of Investments",
+        "type": "",
+        "seq": "6",
+        "hierarchy": ["Revenue From Operations", "Gain in Fair Value of Investments"]
+    }, {
+        "rowId": "7",
+        "displayName": "Sale and Other Investments Income",
+        "type": "",
+        "seq": "7",
+        "hierarchy": ["Revenue From Operations", "Sale and Other Investments Income"]
+    }, {
+        "rowId": "8",
+        "displayName": "Profit on Assignment / Sale of Loans",
+        "type": "",
+        "seq": "8",
+        "hierarchy": ["Revenue From Operations", "Profit on Assignment / Sale of Loans"]
+    }, {
+        "rowId": "9",
+        "displayName": "Net Gain on Derecognition of Financial Instruments under Amortised Cost Category",
+        "type": "",
+        "seq": "9",
+        "hierarchy": ["Revenue From Operations", "Net Gain on Derecognition of Financial Instruments under Amortised Cost Category"]
+    }, {
+        "rowId": "10",
+        "displayName": "Income from Stock Market Operations",
+        "type": "",
+        "seq": "10",
+        "hierarchy": ["Revenue From Operations", "Income from Stock Market Operations"]
+    }, {
+        "rowId": "11",
+        "displayName": "Net Translation / Transaction Exchange Gain",
+        "type": "",
+        "seq": "11",
+        "hierarchy": ["Revenue From Operations", "Net Translation / Transaction Exchange Gain"]
+    }, {
+        "rowId": "12",
+        "displayName": "Income from Fee and Commission",
+        "type": "",
+        "seq": "12",
+        "hierarchy": ["Revenue From Operations", "Income from Fee and Commission"]
+    }, {
+        "rowId": "13",
+        "displayName": "Income from Insurance Operations",
+        "type": "",
+        "seq": "13",
+        "hierarchy": ["Revenue From Operations", "Income from Insurance Operations"]
+    }, {
+        "rowId": "14",
+        "displayName": "Other Financial Revenue",
+        "type": "",
+        "seq": "14",
+        "hierarchy": ["Revenue From Operations", "Other Financial Revenue"]
+    }, {
+        "rowId": "15",
+        "displayName": "Sale of Products",
+        "type": "",
+        "seq": "15",
+        "hierarchy": ["Revenue From Operations", "Sale of Products"]
+    }, {
+        "rowId": "16",
+        "displayName": "Sale of Services",
+        "type": "",
+        "seq": "16",
+        "hierarchy": ["Revenue From Operations", "Sale of Services"]
+    }, {
+        "rowId": "17",
+        "displayName": "Other Operating Revenue",
+        "type": "",
+        "seq": "17",
+        "hierarchy": ["Revenue From Operations", "Other Operating Revenue"]
+    }, {
+        "rowId": "SUM(20,21,22,31,35,36,37,38,32,23)",
+        "displayName": "Operating Expense",
+        "type": "",
+        "seq": "18",
+        "hierarchy": ["Operating Expense"]
+    }, {
+        "rowId": "20",
+        "displayName": "Finance Costs",
+        "type": "",
+        "seq": "19",
+        "hierarchy": ["Operating Expense", "Finance Costs"]
+    }, {
+        "rowId": "21",
+        "displayName": "Impairment on Financial Instruments",
+        "type": "",
+        "seq": "20",
+        "hierarchy": ["Operating Expense", "Impairment on Financial Instruments"]
+    }, {
+        "rowId": "22",
+        "displayName": "Employee Benefits",
+        "type": "",
+        "seq": "21",
+        "hierarchy": ["Operating Expense", "Employee Benefits"]
+    }, {
+        "rowId": "31",
+        "displayName": "Administrative and Selling Expenses",
+        "type": "",
+        "seq": "22",
+        "hierarchy": ["Operating Expense", "Administrative and Selling Expenses"]
+    }, {
+        "rowId": "35",
+        "displayName": "Changes in Inventories",
+        "type": "",
+        "seq": "23",
+        "hierarchy": ["Operating Expense", "Changes in Inventories"]
+    }, {
+        "rowId": "36",
+        "displayName": "Purchases of Stock-in-Trade",
+        "type": "",
+        "seq": "24",
+        "hierarchy": ["Operating Expense", "Purchases of Stock-in-Trade"]
+    }, {
+        "rowId": "37",
+        "displayName": "Cost of Material Consumed",
+        "type": "",
+        "seq": "25",
+        "hierarchy": ["Operating Expense", "Cost of Material Consumed"]
+    }, {
+        "rowId": "38",
+        "displayName": "Internally Manufactured Intermediates Consumed",
+        "type": "",
+        "seq": "26",
+        "hierarchy": ["Operating Expense", "Internally Manufactured Intermediates Consumed"]
+    }, {
+        "rowId": "32",
+        "displayName": "Other Expenses",
+        "type": "",
+        "seq": "27",
+        "hierarchy": ["Operating Expense", "Other Expenses"]
+    }, {
+        "rowId": "23",
+        "displayName": "Operating Expenses",
+        "type": "",
+        "seq": "28",
+        "hierarchy": ["Operating Expense", "Operating Expenses"]
+    }, {
+        "rowId": "24",
+        "displayName": "Net Loss on Fair Value Changes",
+        "type": "",
+        "seq": "29",
+        "hierarchy": ["Operating Expense", "Operating Expenses", "Net Loss on Fair Value Changes"]
+    }, {
+        "rowId": "25",
+        "displayName": "Fees and Commission Expenses",
+        "type": "",
+        "seq": "30",
+        "hierarchy": ["Operating Expense", "Operating Expenses", "Fees and Commission Expenses"]
+    }, {
+        "rowId": "26",
+        "displayName": "Loss on Sale of Investments",
+        "type": "",
+        "seq": "31",
+        "hierarchy": ["Operating Expense", "Operating Expenses", "Loss on Sale of Investments"]
+    }, {
+        "rowId": "27",
+        "displayName": "Net Loss on Derecognition of Financial Instruments under Amortised Cost Category",
+        "type": "",
+        "seq": "32",
+        "hierarchy": ["Operating Expense", "Operating Expenses", "Net Loss on Derecognition of Financial Instruments under Amortised Cost Category"]
+    }, {
+        "rowId": "28",
+        "displayName": "Net Translation / Transaction Exchange Loss",
+        "type": "",
+        "seq": "33",
+        "hierarchy": ["Operating Expense", "Operating Expenses", "Net Translation / Transaction Exchange Loss"]
+    }, {
+        "rowId": "29",
+        "displayName": "Cost of Insurance Operations",
+        "type": "",
+        "seq": "34",
+        "hierarchy": ["Operating Expense", "Operating Expenses", "Cost of Insurance Operations"]
+    }, {
+        "rowId": "30",
+        "displayName": "Other Operating Expenses",
+        "type": "",
+        "seq": "35",
+        "hierarchy": ["Operating Expense", "Operating Expenses", "Other Operating Expenses"]
+    }, {
+        "rowId": "SUM(1,-35,-36,-37,-38,-20,-21,-22,-23,-31,-32)",
+        "displayName": "Operating Profit",
+        "type": "BOLD",
+        "seq": "36",
+        "hierarchy": ["Operating Profit"]
+    }, {
+        "rowId": "34",
+        "displayName": "Depreciation and Amortization",
+        "type": "",
+        "seq": "37",
+        "hierarchy": ["Depreciation and Amortization"]
+    }, {
+        "rowId": "18",
+        "displayName": "Other Income",
+        "type": "",
+        "seq": "38",
+        "hierarchy": ["Other Income"]
+    }, {
+        "rowId": "40",
+        "displayName": "Profit Before Exceptional Items and Tax",
+        "type": "BOLD",
+        "seq": "39",
+        "hierarchy": ["Profit Before Exceptional Items and Tax"]
+    }, {
+        "rowId": "41",
+        "displayName": "Exceptional Items Before Tax",
+        "type": "",
+        "seq": "40",
+        "hierarchy": ["Exceptional Items Before Tax"]
+    }, {
+        "rowId": "42",
+        "displayName": "Profit Before Extraordinary Items and Tax",
+        "type": "BOLD",
+        "seq": "41",
+        "hierarchy": ["Profit Before Extraordinary Items and Tax"]
+    }, {
+        "rowId": "43",
+        "displayName": "Extraordinary Items Before Tax",
+        "type": "",
+        "seq": "42",
+        "hierarchy": ["Extraordinary Items Before Tax"]
+    }, {
+        "rowId": "44",
+        "displayName": "Other Adjustments Before Tax",
+        "type": "",
+        "seq": "43",
+        "hierarchy": ["Other Adjustments Before Tax"]
+    }, {
+        "rowId": "45",
+        "displayName": "Profit Before Tax (PBT)",
+        "type": "BOLD",
+        "seq": "44",
+        "hierarchy": ["Profit Before Tax (PBT)"]
+    }, {
+        "rowId": "46",
+        "displayName": "Taxation",
+        "type": "",
+        "seq": "45",
+        "hierarchy": ["Taxation"]
+    }, {
+        "rowId": "47",
+        "displayName": "Current Tax",
+        "type": "",
+        "seq": "46",
+        "hierarchy": ["Taxation", "Current Tax"]
+    }, {
+        "rowId": "48",
+        "displayName": "MAT Credit Entitlement",
+        "type": "",
+        "seq": "47",
+        "hierarchy": ["Taxation", "MAT Credit Entitlement"]
+    }, {
+        "rowId": "49",
+        "displayName": "Deferred Tax",
+        "type": "",
+        "seq": "48",
+        "hierarchy": ["Taxation", "Deferred Tax"]
+    }, {
+        "rowId": "50",
+        "displayName": "Other Tax",
+        "type": "",
+        "seq": "49",
+        "hierarchy": ["Taxation", "Other Tax"]
+    }, {
+        "rowId": "51",
+        "displayName": "Adjust for Previous Year",
+        "type": "",
+        "seq": "50",
+        "hierarchy": ["Taxation", "Adjust for Previous Year"]
+    }, {
+        "rowId": "52",
+        "displayName": "Profit After Tax (PAT)",
+        "type": "BOLD",
+        "seq": "51",
+        "hierarchy": ["Profit After Tax (PAT)"]
+    }, {
+        "rowId": "60",
+        "displayName": "Profit Attributable to Equity Shareholders",
+        "type": "",
+        "seq": "52",
+        "hierarchy": ["Profit Attributable to Equity Shareholders"]
+    }, {
+        "rowId": "61",
+        "displayName": "Earning Per Share - Basic",
+        "type": "",
+        "seq": "53",
+        "hierarchy": ["Earning Per Share - Basic"]
+    }, {
+        "rowId": "62",
+        "displayName": "Earning Per Share - Diluted",
+        "type": "",
+        "seq": "54",
+        "hierarchy": ["Earning Per Share - Diluted"]
+    }
+]
